@@ -1,0 +1,902 @@
+[
+  {
+    "query": "What does the Experience Exercise section on 'Thinking about' ask you to reflect on or do?",
+    "answer": "Based on the document: Thinking Here are three questions about thinking: 1. What are some words and phrases that describe different types of thinking? Make a list of as many different types as you can come up with. 2. What type of thinking do you enjoy doing? What type of thinking motivates you the most?",
+    "contexts": [
+      "Thinking Here are three questions about thinking: 1. What are some words and phrases that describe different types of thinking? Make a list of as many different types as you can come up with. 2. What type of thinking do you enjoy doing? What type of thinking motivates you the most? 3 What type of thinking work do you find difficult to do? What type of thinking doesn’t motivate you?"
+    ],
+    "ground_truth": "Thinking Here are three questions about thinking: 1. What are some words and phrases that describe different types of thinking? Make a list of as many different types as you can come up with. 2. What type of thinking do you enjoy doing? What type of thinking motivates you the most?"
+  },
+  {
+    "query": "According to the SmartSkills guide, thinking styles?",
+    "answer": "Based on the document: A thinking style is a way of thinking. It is not a skill or ability. A thinking style is the way you like to use the abilities you have. It is the way you see the world. People have different thinking styles. Your thinking style is the way you prefer to use the abilities you have.",
+    "contexts": [
+      "A thinking style is a way of thinking. It is not a skill or ability. A thinking style is the way you like to use the abilities you have. It is the way you see the world. People have different thinking styles. Your thinking style is the way you prefer to use the abilities you have. Thinking styles aim where you put your focus and attention. Here are some things to know about thinking styles, thanks to the lifelong research work of Robert Sternberg: • Thinking styles are your preferences, not your abilities. You can like to do something, but not necessarily be good at it. You can be good at something and not like it. The best combination for success at work is to know your own thinking style preferences – like analytical or creative or practical - and to make sure you build up your abilities in that type of thinking so that you are good and skilled at what you like to do. • you have more t"
+    ],
+    "ground_truth": "A thinking style is a way of thinking. It is not a skill or ability. A thinking style is the way you like to use the abilities you have. It is the way you see the world. People have different thinking styles. Your thinking style is the way you prefer to use the abilities you have."
+  },
+  {
+    "query": "What does the Experience Exercise section on 'Dumb and Dumber.' ask you to reflect on or do?",
+    "answer": "Based on the document: Smart and Smarter. REFLECT ON AND DISCUSS THESE QUESTIONS DUMB AND DUMBER 1. If someone at work was acting in a dumb way, how would you know? 2. What would you notice them doing? 3. What would they not be doing, that they should be doing? 4. What might be the impact of this type of behaviour?",
+    "contexts": [
+      "Smart and Smarter. REFLECT ON AND DISCUSS THESE QUESTIONS DUMB AND DUMBER 1. If someone at work was acting in a dumb way, how would you know? 2. What would you notice them doing? 3. What would they not be doing, that they should be doing? 4. What might be the impact of this type of behaviour? NOTES: SMART AND SMARTER 1. If someone at work was acting in a smart or intelligent way, how would you know? 2. What would you notice them doing? 3. What would be the impact of this type of behaviour? NOTES:"
+    ],
+    "ground_truth": "Smart and Smarter. REFLECT ON AND DISCUSS THESE QUESTIONS DUMB AND DUMBER 1. If someone at work was acting in a dumb way, how would you know? 2. What would you notice them doing? 3. What would they not be doing, that they should be doing? 4. What might be the impact of this type of behaviour?"
+  },
+  {
+    "query": "What does the Apply @ Work section on 'Hiring People Who Know' ask you to reflect on or do?",
+    "answer": "Based on the document: How to Think and Work Smarter Reflect on your discussions from the Dumb and Dumber. Smart and Smarter exercise. 1. If you were an employer, what would you look for in your employees if you wanted to hire people who knew how to think, work and act smarter?",
+    "contexts": [
+      "How to Think and Work Smarter Reflect on your discussions from the Dumb and Dumber. Smart and Smarter exercise. 1. If you were an employer, what would you look for in your employees if you wanted to hire people who knew how to think, work and act smarter? What would they do well? Develop a checklist of the top seven ‘think, work and act smarter behaviours? 2. What questions would you ask to help you judge if people had one or more of these top seven behaviours?"
+    ],
+    "ground_truth": "How to Think and Work Smarter Reflect on your discussions from the Dumb and Dumber. Smart and Smarter exercise. 1. If you were an employer, what would you look for in your employees if you wanted to hire people who knew how to think, work and act smarter?"
+  },
+  {
+    "query": "What does the Experience Exercise section on 'Thinking is' ask you to reflect on or do?",
+    "answer": "Based on the document: Hard Work Henry Ford said, “!inking is the hardest work there is, which is probably the reason so few engage in it.” 1. What types of thinking work do you find the most difficult to do? 2. Why are they difficult for you? 3. Imagine yourself in a workplace: what type of thinking work would be the most enjoyable for you to do?",
+    "contexts": [
+      "Hard Work Henry Ford said, “!inking is the hardest work there is, which is probably the reason so few engage in it.” 1. What types of thinking work do you find the most difficult to do? 2. Why are they difficult for you? 3. Imagine yourself in a workplace: what type of thinking work would be the most enjoyable for you to do? 4. Why is that type of thinking work most enjoyable for you? 5. What type of thinking skills would you like to develop?"
+    ],
+    "ground_truth": "Hard Work Henry Ford said, “!inking is the hardest work there is, which is probably the reason so few engage in it.” 1. What types of thinking work do you find the most difficult to do? 2. Why are they difficult for you? 3. Imagine yourself in a workplace: what type of thinking work would be the most enjoyable for you to do?"
+  },
+  {
+    "query": "According to the SmartSkills guide, your brain and the six?",
+    "answer": "Based on the document: Executive Functions Today’s jobs require more brain work than muscle work. All of your thinking happens in your brain. You do all of your planning, idea generation, evaluating, problem-solving and decision-making in what is called the executive part of your brain.",
+    "contexts": [
+      "Executive Functions Today’s jobs require more brain work than muscle work. All of your thinking happens in your brain. You do all of your planning, idea generation, evaluating, problem-solving and decision-making in what is called the executive part of your brain. That makes sense since you are the executive in charge of your own life. The executive part of your brain is located at the front of your skull, behind your forehead. Learning is brain work. All learning happens in your brain. Your brain is your most valuable asset in today’s workplace. It is where you store what you know and where you go when you need to figure things out. And the good news is that you can also make your brain work better and help you work smarter. SIX EXECUTIVE FUNCTIONS OF YOUR BRAIN The way you learn the Essential Skills in this program will help you get more mentally fit by building up the six executive fu"
+    ],
+    "ground_truth": "Executive Functions Today’s jobs require more brain work than muscle work. All of your thinking happens in your brain. You do all of your planning, idea generation, evaluating, problem-solving and decision-making in what is called the executive part of your brain."
+  },
+  {
+    "query": "What does the Apply @ Work section on 'Build Your Executive Skills' ask you to reflect on or do?",
+    "answer": "Based on the document: Review the six executive functions. Identify the one that you feel would be the most useful and important for you to develop. 1.Which one did you choose. Why? 2. If you develop it, what impact or difference will it make for you at work? 3. What tasks will it help you to become better at?",
+    "contexts": [
+      "Review the six executive functions. Identify the one that you feel would be the most useful and important for you to develop. 1.Which one did you choose. Why? 2. If you develop it, what impact or difference will it make for you at work? 3. What tasks will it help you to become better at? 4. What evidence will convince an employer and convince you that you have improved your skills in this particular executive function?"
+    ],
+    "ground_truth": "Review the six executive functions. Identify the one that you feel would be the most useful and important for you to develop. 1.Which one did you choose. Why? 2. If you develop it, what impact or difference will it make for you at work? 3. What tasks will it help you to become better at?"
+  },
+  {
+    "query": "What does the Experience Exercise section on 'Common Languages' ask you to reflect on or do?",
+    "answer": "Based on the document: 1. Can you list some examples of common languages you use in your life? 2. What does knowing a common language do for a member of a group or team? 3 What does not having a common language do to a newcomer in a group?",
+    "contexts": [
+      "1. Can you list some examples of common languages you use in your life? 2. What does knowing a common language do for a member of a group or team? 3 What does not having a common language do to a newcomer in a group?"
+    ],
+    "ground_truth": "1. Can you list some examples of common languages you use in your life? 2. What does knowing a common language do for a member of a group or team? 3 What does not having a common language do to a newcomer in a group?"
+  },
+  {
+    "query": "According to the SmartSkills guide, the common language of?",
+    "answer": "Based on the document: Thinking Our lives are full of common languages. Some of them are universal, such as music, math, the US dollar and smiles. Other common languages are more local – ethnic-based or community-based languages that members of that community all share and use, but people outside of that community don’t know or understand.",
+    "contexts": [
+      "Thinking Our lives are full of common languages. Some of them are universal, such as music, math, the US dollar and smiles. Other common languages are more local – ethnic-based or community-based languages that members of that community all share and use, but people outside of that community don’t know or understand. APPRECIATE DECIDE UNDERSTAND CREATE INITIATE In this program, you will learn a new SmartSkills® common language that will help you to think better and work smarter with others. Knowing how to use this common language will be a big part of improving your employability, you thinking skills and your versatility. THE 4 DIMENSIONS OF HIGH PERFORMANCE THINKING This simple universal common language is based on four dimensions of high performance thinking. It’s modeled on a traffic light to make it easy to learn, simple to understand and effortless to use. DO RED. STOP AND DECIDE – "
+    ],
+    "ground_truth": "Thinking Our lives are full of common languages. Some of them are universal, such as music, math, the US dollar and smiles. Other common languages are more local – ethnic-based or community-based languages that members of that community all share and use, but people outside of that community don’t know or understand."
+  },
+  {
+    "query": "According to the SmartSkills guide, the four s framework?",
+    "answer": "Based on the document: The Smart Skills model has four core applications for improving skills and getting work done, all off the same platform. Thinking STYLE STATE STAGE of Mind of Process 21st Century SKILLS KNOW AND GROW YOURSELF The first two S’s describe how you can first know yourself and then grow your skills.",
+    "contexts": [
+      "The Smart Skills model has four core applications for improving skills and getting work done, all off the same platform. Thinking STYLE STATE STAGE of Mind of Process 21st Century SKILLS KNOW AND GROW YOURSELF The first two S’s describe how you can first know yourself and then grow your skills. 1. THINKING STYLE. The 4D-i gives you a deep understanding of your own Thinking Style; your own preferred way of thinking and operating. Your own operating style makes you unique. It highlights the strategies you like to use. It’s very useful for both knowing yourself better, and for giving you ideas on how to grow. 2. SKILLS PORTFOLIO. The 4D-i is based on 21 core thinking skills. Your 4D-i results show which of the 21 skills you like the most. You can learn all of these skills the same way you learn anything else – with commitment, effort, deliberate practise and perseverance. There are six skil"
+    ],
+    "ground_truth": "The Smart Skills model has four core applications for improving skills and getting work done, all off the same platform. Thinking STYLE STATE STAGE of Mind of Process 21st Century SKILLS KNOW AND GROW YOURSELF The first two S’s describe how you can first know yourself and then grow your skills."
+  },
+  {
+    "query": "What does the Apply @ Work section on 'Thinking at Work' ask you to reflect on or do?",
+    "answer": "Based on the document: 1. What work have you done – paid or unpaid – where you were expected to figure things out? 2. What work did not encourage you to think, just to do what was expected? 3. What type of work can you imagine being the most meaningful for you? 4. Do you prefer having some freedom to think things through and make decisions, or do you prefer to do work that is controlled?",
+    "contexts": [
+      "1. What work have you done – paid or unpaid – where you were expected to figure things out? 2. What work did not encourage you to think, just to do what was expected? 3. What type of work can you imagine being the most meaningful for you? 4. Do you prefer having some freedom to think things through and make decisions, or do you prefer to do work that is controlled?"
+    ],
+    "ground_truth": "1. What work have you done – paid or unpaid – where you were expected to figure things out? 2. What work did not encourage you to think, just to do what was expected? 3. What type of work can you imagine being the most meaningful for you? 4. Do you prefer having some freedom to think things through and make decisions, or do you prefer to do work that is controlled?"
+  },
+  {
+    "query": "What does the Experience Exercise section on 'Tools for Knowing' ask you to reflect on or do?",
+    "answer": "Based on the document: Yourself and Tools for Learning Reflect on any other types of assessments you have done. What did you learn about yourself? 1. How helpful were ‘tests’ in school? 2. What did this type of test teach you? 3. Where did you learn the most about yourself ? 4. What would you really like to know more about yourself ?",
+    "contexts": [
+      "Yourself and Tools for Learning Reflect on any other types of assessments you have done. What did you learn about yourself? 1. How helpful were ‘tests’ in school? 2. What did this type of test teach you? 3. Where did you learn the most about yourself ? 4. What would you really like to know more about yourself ?"
+    ],
+    "ground_truth": "Yourself and Tools for Learning Reflect on any other types of assessments you have done. What did you learn about yourself? 1. How helpful were ‘tests’ in school? 2. What did this type of test teach you? 3. Where did you learn the most about yourself ? 4. What would you really like to know more about yourself ?"
+  },
+  {
+    "query": "According to the SmartSkills guide, the 4d-i and a simple?",
+    "answer": "Based on the document: Common Language develop a simple common language and toolkit to help people and teams everywhere succeed, by learning how to think better and work smarter together. The purpose of the 4D-i in this program, is to give you the basic tools to know yourself better and as a way to expand your thinking skills.",
+    "contexts": [
+      "Common Language develop a simple common language and toolkit to help people and teams everywhere succeed, by learning how to think better and work smarter together. The purpose of the 4D-i in this program, is to give you the basic tools to know yourself better and as a way to expand your thinking skills. The 4D-i is based on 15 years of research. The 4D-i has been selected by leading businesses, governments and not-for-profit organizations to develop leaders, build high performance teams and increase innovation. produced a 558% ROI or return on investment, the highest ever achieved and measured in Canada, from a corporate training program, by saving time and money by reducing the length of waste in meetings. In schools, colleges and universities in Canada and the US, the 4D-i is used in courses and programs to help learners understand themselves better and give them the core thinking, pr"
+    ],
+    "ground_truth": "Common Language develop a simple common language and toolkit to help people and teams everywhere succeed, by learning how to think better and work smarter together. The purpose of the 4D-i in this program, is to give you the basic tools to know yourself better and as a way to expand your thinking skills."
+  },
+  {
+    "query": "According to the SmartSkills guide, the 4d-i basics?",
+    "answer": "Based on the document: The 4D-i is based on 3 separate research studies to set the norms for the instrument – 1000 people in 2000, 8,000 people in 2004 and 25,000 people in 2008. This compares what you prefer and like to do with thousands of other people who took the same assessment.",
+    "contexts": [
+      "The 4D-i is based on 3 separate research studies to set the norms for the instrument – 1000 people in 2000, 8,000 people in 2004 and 25,000 people in 2008. This compares what you prefer and like to do with thousands of other people who took the same assessment. Here are some things to know about the 4D-i: 1. NO RIGHT OR WRONG. There is no right or wrong profile. This is all about your preferences 2. PERCENTILES COMPARE PREFERENCES NOT ABILITIES. The results are in percentiles. They compare your preferences with other people’s preferences, not your skills. 3. HIGH RESULT= HIGH PREFERENCE. A high result means you have a high preference for a colour or strategy 4. LOW RESULT = LOW PREFERENCE. A low result means you have a low preference, not a low ability 5. ZERO = NO SELECTION, NO PREFERENCE. A 0/zero result simply means that you never selected it as one of the ones you prefer, in any of t"
+    ],
+    "ground_truth": "The 4D-i is based on 3 separate research studies to set the norms for the instrument – 1000 people in 2000, 8,000 people in 2004 and 25,000 people in 2008. This compares what you prefer and like to do with thousands of other people who took the same assessment."
+  },
+  {
+    "query": "What does the Apply @ Work section on 'Getting Better' ask you to reflect on or do?",
+    "answer": "Based on the document: What task or skill would you like to build the most? Select one of the Seven Ways to be Great that would be the most important for you to get better at. What specific steps could you take that would help you develop that skill? How could you apply the Seven Ways to be Great to building that skill?",
+    "contexts": [
+      "What task or skill would you like to build the most? Select one of the Seven Ways to be Great that would be the most important for you to get better at. What specific steps could you take that would help you develop that skill? How could you apply the Seven Ways to be Great to building that skill? DELIBERATE PRACTICE DELIBERATE THINKING DAILY EFFORTS PASSION PERSEVERANCE SELF-DISCIPLINE POSITIVE OUTLOOK 1. Select one. 2. What steps could you take to build up this skill? 3. How could you apply all 7 to get better?"
+    ],
+    "ground_truth": "What task or skill would you like to build the most? Select one of the Seven Ways to be Great that would be the most important for you to get better at. What specific steps could you take that would help you develop that skill? How could you apply the Seven Ways to be Great to building that skill?"
+  },
+  {
+    "query": "What does the Experience Exercise section on 'Thinking About Your' ask you to reflect on or do?",
+    "answer": "Based on the document: Thinking What types of things do you like to think about the most? What types of thinking do you like to do? How do you suppose your thinking style impacts your results in life and in your relationships? NOTES:",
+    "contexts": [
+      "Thinking What types of things do you like to think about the most? What types of thinking do you like to do? How do you suppose your thinking style impacts your results in life and in your relationships? NOTES:"
+    ],
+    "ground_truth": "Thinking What types of things do you like to think about the most? What types of thinking do you like to do? How do you suppose your thinking style impacts your results in life and in your relationships? NOTES:"
+  },
+  {
+    "query": "According to the SmartSkills guide, the 21 strategies?",
+    "answer": "Based on the document: You need to be good enough in each of the four dimensions of thinking, not just in the ones you like to use. The more you can strive to be a 4D or four-dimensional person through hard work, the more likely you will succeed at work. The 21 strategies in your 4D-i are like the 10 digits in numeracy or the 26 letters of the alphabet in literacy.",
+    "contexts": [
+      "You need to be good enough in each of the four dimensions of thinking, not just in the ones you like to use. The more you can strive to be a 4D or four-dimensional person through hard work, the more likely you will succeed at work. The 21 strategies in your 4D-i are like the 10 digits in numeracy or the 26 letters of the alphabet in literacy. They are the building blocks for effective thinking, problem-solving, communicating, writing and working with others. As you get better at each one, your performance will improve. The 21 thinking strategies are the core building blocks in the 4D-i, the SmartSkills system and in the entire Success @Work program. THE 11 THINKING STRATEGIES CRITICAL THINKING – use these strategies to make a sound, logical and practical decision • Get to the crux – determine the essence or most critical aspect of a problem, issue or situation in order to take action • c"
+    ],
+    "ground_truth": "You need to be good enough in each of the four dimensions of thinking, not just in the ones you like to use. The more you can strive to be a 4D or four-dimensional person through hard work, the more likely you will succeed at work. The 21 strategies in your 4D-i are like the 10 digits in numeracy or the 26 letters of the alphabet in literacy."
+  },
+  {
+    "query": "What does the Apply @ Work section on 'Strengthening Your Skills' ask you to reflect on or do?",
+    "answer": "Based on the document: Reflect and plan for where and how you can use and expand each of the skills in and outside of the workplace. CRITICAL THINKING EMOTION BASED DECISION-MAKING ANALYTICAL THINKING COMPASSION CREATIVE THINKING CREATIVE INTUITION PERSONAL SPIRIT",
+    "contexts": [
+      "Reflect and plan for where and how you can use and expand each of the skills in and outside of the workplace. CRITICAL THINKING EMOTION BASED DECISION-MAKING ANALYTICAL THINKING COMPASSION CREATIVE THINKING CREATIVE INTUITION PERSONAL SPIRIT"
+    ],
+    "ground_truth": "Reflect and plan for where and how you can use and expand each of the skills in and outside of the workplace. CRITICAL THINKING EMOTION BASED DECISION-MAKING ANALYTICAL THINKING COMPASSION CREATIVE THINKING CREATIVE INTUITION PERSONAL SPIRIT"
+  },
+  {
+    "query": "What does the Apply @ Work section on 'Refl and Projections' ask you to reflect on or do?",
+    "answer": "Based on the document: Reflect on what you have learned so far. 1. What are the implications for you? What types of work would let you use your highest preferences? What one colour skill could you develop that would have the most impact on your abilities, relationship skills and future job success?",
+    "contexts": [
+      "Reflect on what you have learned so far. 1. What are the implications for you? What types of work would let you use your highest preferences? What one colour skill could you develop that would have the most impact on your abilities, relationship skills and future job success? 2. What are some of the obstacles you have to overcome to improve your thinking skills? 3. Set two personal development goals that will help you to be a 4D-i learner, person and employee. 4. What steps will get you moving forward?"
+    ],
+    "ground_truth": "Reflect on what you have learned so far. 1. What are the implications for you? What types of work would let you use your highest preferences? What one colour skill could you develop that would have the most impact on your abilities, relationship skills and future job success?"
+  },
+  {
+    "query": "What does the Experience Exercise section on 'Problems, Problems' ask you to reflect on or do?",
+    "answer": "Based on the document: Everywhere Reflect on how you go about solving problems. Think about a recent decision you had to make. What steps, if any, did you go through to arrive at your decision? What’s your own personal way of achieving a solution on a small issue/item? What’s your approach for making a decision on a big issue, problem or challenge?",
+    "contexts": [
+      "Everywhere Reflect on how you go about solving problems. Think about a recent decision you had to make. What steps, if any, did you go through to arrive at your decision? What’s your own personal way of achieving a solution on a small issue/item? What’s your approach for making a decision on a big issue, problem or challenge? NOTES:"
+    ],
+    "ground_truth": "Everywhere Reflect on how you go about solving problems. Think about a recent decision you had to make. What steps, if any, did you go through to arrive at your decision? What’s your own personal way of achieving a solution on a small issue/item? What’s your approach for making a decision on a big issue, problem or challenge?"
+  },
+  {
+    "query": "What does the Apply @ Work section on 'Two Signifi Problems' ask you to reflect on or do?",
+    "answer": "Based on the document: Think of two significant problems you have seen someone deal with in their jobs that were poorly solved, or where the way in which the problems were ‘solved’ actually made them worse. 1. What was the problem? 2. What key factors contributed to what happened?",
+    "contexts": [
+      "Think of two significant problems you have seen someone deal with in their jobs that were poorly solved, or where the way in which the problems were ‘solved’ actually made them worse. 1. What was the problem? 2. What key factors contributed to what happened? 3. What was a big takeaway for you from those experiences? NOTES:"
+    ],
+    "ground_truth": "Think of two significant problems you have seen someone deal with in their jobs that were poorly solved, or where the way in which the problems were ‘solved’ actually made them worse. 1. What was the problem? 2. What key factors contributed to what happened?"
+  },
+  {
+    "query": "According to the SmartSkills guide, three typical problem-?",
+    "answer": "Based on the document: Solving Mistakes Sometimes the problems we have to deal with are made worse by the way we go about solving them. The real problem is not the problem itself, but the way we go about solving it. 1. LACK OF A PROCESS. This is where you leave things to chance, make decisions much too quickly or slowly, and never use a simple step-by-step process to get you where you want to go.",
+    "contexts": [
+      "Solving Mistakes Sometimes the problems we have to deal with are made worse by the way we go about solving them. The real problem is not the problem itself, but the way we go about solving it. 1. LACK OF A PROCESS. This is where you leave things to chance, make decisions much too quickly or slowly, and never use a simple step-by-step process to get you where you want to go. Without a process, you might not gather the essential facts and information that would help you to solve the problem. You fail to explore enough options, and you can jump to conclusions too quickly. TIP: Before you do anything, make sure you pick a process for every important problem you face. Select a Smart Track process that will help you think through what you have to do. Use it as your path and GPS to get to where you want to go. 2. OVERCONFIDENCE IN OUR OWN JUDGEMENT. This is where fools rush in. Experts and novi"
+    ],
+    "ground_truth": "Solving Mistakes Sometimes the problems we have to deal with are made worse by the way we go about solving them. The real problem is not the problem itself, but the way we go about solving it. 1. LACK OF A PROCESS. This is where you leave things to chance, make decisions much too quickly or slowly, and never use a simple step-by-step process to get you where you want to go."
+  },
+  {
+    "query": "According to the SmartSkills guide, 3 key guidelines?",
+    "answer": "Based on the document: Smart problem-solving starts with you. It is an inside job. It all starts with your point of view. Some people only see problems, while others see opportunities buried in those problems. The smart problem-solving process is based on three simple guidelines: GUIDELINE #1: DECIDE WHAT TYPE OF OUTCOME YOU WANT.",
+    "contexts": [
+      "Smart problem-solving starts with you. It is an inside job. It all starts with your point of view. Some people only see problems, while others see opportunities buried in those problems. The smart problem-solving process is based on three simple guidelines: GUIDELINE #1: DECIDE WHAT TYPE OF OUTCOME YOU WANT. This resembles your mind’s GPS. It helps you decide your destination – where you want to end up. The colour-coded system provides you with three distinct types of outcomes. While most outcomes are Red, sometimes the outcome is a plan or a relationship that’s working well again, or simply a set of options to consider for a later time. ADVICE OR DECISION- CLARITY OR CREATIVE IDEAS AND MAKING UNDERSTANDING OPTIONS Advice and experience - on Clarification and Ideas and option what to do understanding Critical assessment - of my Analysis New ways of looking at a proposal situation Recomme"
+    ],
+    "ground_truth": "Smart problem-solving starts with you. It is an inside job. It all starts with your point of view. Some people only see problems, while others see opportunities buried in those problems. The smart problem-solving process is based on three simple guidelines: GUIDELINE #1: DECIDE WHAT TYPE OF OUTCOME YOU WANT."
+  },
+  {
+    "query": "According to the SmartSkills guide, the colours of smart?",
+    "answer": "Based on the document: Problem Solving Simple problems usually require less thinking, more complex problems require more. Your thinking tools for smart problem solving are found in the 4 dimensions of high performance thinking. The specific strategies are your precision tools for figuring things out.",
+    "contexts": [
+      "Problem Solving Simple problems usually require less thinking, more complex problems require more. Your thinking tools for smart problem solving are found in the 4 dimensions of high performance thinking. The specific strategies are your precision tools for figuring things out. Thinking STYLE STATE STAGE of Mind of Process 21st Century SKILLS Smart problem solving means you need to tap into all the skills in the 4 dimensions. It means you adjust your state of mind at each stage of the process – see the Smart Tracks in this lesson – and use just the right amount of each type of thinking to get to where you need to be. GO GREEN The more difficult a problem is, the more you will need to use creative thinking to ensure you explore a wide variety of approaches and ideas before you decide on what to do. s 5.$%253% - when you settle too quickly on one solution or limited set of options, without"
+    ],
+    "ground_truth": "Problem Solving Simple problems usually require less thinking, more complex problems require more. Your thinking tools for smart problem solving are found in the 4 dimensions of high performance thinking. The specific strategies are your precision tools for figuring things out."
+  },
+  {
+    "query": "What does the Experience Exercise section on 'Track Your Decision-' ask you to reflect on or do?",
+    "answer": "Based on the document: Making Style 1. When you decide to make an important purchase, what steps do you go through before you buy it? 2. If you had to make a decision on purchasing an important item, and you decided to use the Yellow to Red track, what would you do in the Yellow phase before you went out and bought it?",
+    "contexts": [
+      "Making Style 1. When you decide to make an important purchase, what steps do you go through before you buy it? 2. If you had to make a decision on purchasing an important item, and you decided to use the Yellow to Red track, what would you do in the Yellow phase before you went out and bought it? 3. What would you do in the Green phase before you went out and bought it?"
+    ],
+    "ground_truth": "Making Style 1. When you decide to make an important purchase, what steps do you go through before you buy it? 2. If you had to make a decision on purchasing an important item, and you decided to use the Yellow to Red track, what would you do in the Yellow phase before you went out and bought it?"
+  },
+  {
+    "query": "What does the Apply @ Work section on 'Do’s and Don’ts' ask you to reflect on or do?",
+    "answer": "Based on the document: All the colours and types of thinking are essential for smart problem-solving. Complete the following sheet to determine three don’ts for each of the four colours when you use them in problem-solving. DO’S DON’TS RED - STIMULATE DECISION-MAKING • Get to the crux of the issue e.g.",
+    "contexts": [
+      "All the colours and types of thinking are essential for smart problem-solving. Complete the following sheet to determine three don’ts for each of the four colours when you use them in problem-solving. DO’S DON’TS RED - STIMULATE DECISION-MAKING • Get to the crux of the issue e.g. keep asking for more information • Ask tough, practical questions • Use your experience • Decide with the three-way check: common sense, heart and values YELLOW - STIMULATE UNDERSTANDING • Gather information from many sources e.g. judge • Clarify to understand • Listen carefully to others • Be kind, show empathy • Organize everything systematically GREEN - STIMULATE CREATIVITY • Generate as many ideas as possible e.g criticize • Reframe all problems into opportunities • Challenge all assumptions • Envision future possibilities • Wait for a flash of insight WHITE - STIMULATE PERSONAL SPIRIT • Notice what is going"
+    ],
+    "ground_truth": "All the colours and types of thinking are essential for smart problem-solving. Complete the following sheet to determine three don’ts for each of the four colours when you use them in problem-solving. DO’S DON’TS RED - STIMULATE DECISION-MAKING • Get to the crux of the issue e.g."
+  },
+  {
+    "query": "What does the Apply @ Work section on 'Use on the Job' ask you to reflect on or do?",
+    "answer": "Based on the document: TASKS 1. Identify a list of five appropriate and five inappropriate problem-solving behaviours. 2. Work with a partner and coach him/her to develop a customized track to deal with a real issue he or she is currently facing. 3. Develop a presentation or drawing on the positive benefits of using colour-coded problem-solving processes at work.",
+    "contexts": [
+      "TASKS 1. Identify a list of five appropriate and five inappropriate problem-solving behaviours. 2. Work with a partner and coach him/her to develop a customized track to deal with a real issue he or she is currently facing. 3. Develop a presentation or drawing on the positive benefits of using colour-coded problem-solving processes at work."
+    ],
+    "ground_truth": "TASKS 1. Identify a list of five appropriate and five inappropriate problem-solving behaviours. 2. Work with a partner and coach him/her to develop a customized track to deal with a real issue he or she is currently facing. 3. Develop a presentation or drawing on the positive benefits of using colour-coded problem-solving processes at work."
+  },
+  {
+    "query": "What does the Apply @ Work section on 'On the Job' ask you to reflect on or do?",
+    "answer": "Based on the document: TASKS 1.Good and ineffective behaviours - identify 3 effective problem solving behaviors and 3 ineffective behaviors that undermine good problem solving GOOD ONES INEFFECTIVE ONES 2.coach and develop a customized Smart Track – work with a partner and coach each other on selecting or designing a customized Smart Track to work through a typical on-the-job type of problem. 3.develop a 3-minute presentation on the benefits of using Smart Tracks for teams to solve problems.",
+    "contexts": [
+      "TASKS 1.Good and ineffective behaviours - identify 3 effective problem solving behaviors and 3 ineffective behaviors that undermine good problem solving GOOD ONES INEFFECTIVE ONES 2.coach and develop a customized Smart Track – work with a partner and coach each other on selecting or designing a customized Smart Track to work through a typical on-the-job type of problem. 3.develop a 3-minute presentation on the benefits of using Smart Tracks for teams to solve problems."
+    ],
+    "ground_truth": "TASKS 1.Good and ineffective behaviours - identify 3 effective problem solving behaviors and 3 ineffective behaviors that undermine good problem solving GOOD ONES INEFFECTIVE ONES 2.coach and develop a customized Smart Track – work with a partner and coach each other on selecting or designing a customized Smart Track to work through a typical on-the-job type of problem. 3.develop a 3-minute presentation on the benefits of using Smart Tracks for teams to solve problems."
+  },
+  {
+    "query": "What does the Experience Exercise section on 'Poor and Good Communicators We Know' ask you to reflect on or do?",
+    "answer": "Based on the document: Think about the four points listed here and jot down some point form notes for each of the four items. Pair up with another person and share and talk about what you have come up with. THE POOR 1. Pick two or three really poor communicators you know personally, or have seen and heard.",
+    "contexts": [
+      "Think about the four points listed here and jot down some point form notes for each of the four items. Pair up with another person and share and talk about what you have come up with. THE POOR 1. Pick two or three really poor communicators you know personally, or have seen and heard. 2. Think about what makes them so ineffective. List some of the specific types of things they say and do. Jot down the impact their poor communication skills have on their results. THE GOOD 1. Pick two or three of your favorite communicators – people that you know and admire in your life. 2. Think about what makes them so effective. List some of the specific types of things they say and do. Jot down the impact their good communication skills have on their results. Pair Share Notes – List some of the points you and your learning partner identified: POOR COMMUNICATING GOOD COMMUNICATING"
+    ],
+    "ground_truth": "Think about the four points listed here and jot down some point form notes for each of the four items. Pair up with another person and share and talk about what you have come up with. THE POOR 1. Pick two or three really poor communicators you know personally, or have seen and heard."
+  },
+  {
+    "query": "According to the SmartSkills guide, communicating and learning points?",
+    "answer": "Based on the document: People communicate every day. We communicate on the phone, face-to-face, online, in stores, with our friends and family, and with the people we meet and work with every single day. Conversations are the lifeblood of our lives. They fuel our relationships and our success.",
+    "contexts": [
+      "People communicate every day. We communicate on the phone, face-to-face, online, in stores, with our friends and family, and with the people we meet and work with every single day. Conversations are the lifeblood of our lives. They fuel our relationships and our success. Successful people in all walks of life have learned some basic secrets and skills on how to get their message across, as well as how to get along with others. The more skilful you are at having open, engaging conversations, the more successful you will be. Learning how to listen and ask smart questions are two of the keys to success you will learn in this module. At the core of effective communication is the color Yellow. While all of the colours are used in communicating, the heart of communicating is in Yellow understanding. The three key elements of communicating are: • THE SENDER. How skilful we are at getting that m"
+    ],
+    "ground_truth": "People communicate every day. We communicate on the phone, face-to-face, online, in stores, with our friends and family, and with the people we meet and work with every single day. Conversations are the lifeblood of our lives. They fuel our relationships and our success."
+  },
+  {
+    "query": "What does the Apply @ Work section on 'Drama in the Workplace –' ask you to reflect on or do?",
+    "answer": "Based on the document: What Works and What Doesn’t REAL LIFE 1. In a group of three, each person will share one story about his/her personal experience with good or poor communication in a workplace, as either as a participant or a watcher.. List the results of both poor and good communication.",
+    "contexts": [
+      "What Works and What Doesn’t REAL LIFE 1. In a group of three, each person will share one story about his/her personal experience with good or poor communication in a workplace, as either as a participant or a watcher.. List the results of both poor and good communication. SUMMARIZE 2. Build a summary of the five most important Communicating Do’s and Don’ts for the workplace. 1. 2. 3. 4. 5. PRESENT 3. Prepare a short skit presentation from your results. 4. Debrief together to discuss what people in a workplace need to do in order to make the shift from being poor communicators to becoming effective communicators. POOR COMMUNICATION EFFECTIVE COMMUNICATION ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’"
+    ],
+    "ground_truth": "What Works and What Doesn’t REAL LIFE 1. In a group of three, each person will share one story about his/her personal experience with good or poor communication in a workplace, as either as a participant or a watcher.. List the results of both poor and good communication."
+  },
+  {
+    "query": "According to the SmartSkills guide, learning or judging?",
+    "answer": "Based on the document: ARE YOU JUDGING OR LEARNING? Marilee Adams identified two primary mindsets when people communicate. She calls them the Judger and the Learner mindsets. These mindsets are like glasses we put on to see and experience the world. Choose your glasses and you choose your world.",
+    "contexts": [
+      "ARE YOU JUDGING OR LEARNING? Marilee Adams identified two primary mindsets when people communicate. She calls them the Judger and the Learner mindsets. These mindsets are like glasses we put on to see and experience the world. Choose your glasses and you choose your world. The mindset you choose will determine the result you get. JUDGER MINDSET The Judger mindset is like the Fixed mindset. In the Judger mindset, you are closed, not open. You argue, criticize and defend your point of view. As a Judger, you usually think you know it all. You protect yourself and defend what you believe and value. You are not open to possibilities and other points of view. JUDGER MINDSET LEARNER MINDSET • Judgmental of self, of others • Accepting – Non-judgmental • reactive and automatic • responsive and mindful • Knows it already • is oK with not knowing right away • rigid and inflexible • Flexible and ada"
+    ],
+    "ground_truth": "ARE YOU JUDGING OR LEARNING? Marilee Adams identified two primary mindsets when people communicate. She calls them the Judger and the Learner mindsets. These mindsets are like glasses we put on to see and experience the world. Choose your glasses and you choose your world."
+  },
+  {
+    "query": "What does the Apply @ Work section on 'Judger and Learner' ask you to reflect on or do?",
+    "answer": "Based on the document: PROCEDURE Pair up with a partner. Each person will practice being in the Judger mindset and the Learner mindset. This exercise has four rounds of two minutes each – two rounds in the Judger mindset and two rounds in the Learner mindset. • JUDGER ROUND 1: The first person tells a story about something important to them that happened this week.",
+    "contexts": [
+      "PROCEDURE Pair up with a partner. Each person will practice being in the Judger mindset and the Learner mindset. This exercise has four rounds of two minutes each – two rounds in the Judger mindset and two rounds in the Learner mindset. • JUDGER ROUND 1: The first person tells a story about something important to them that happened this week. The second person practices being in the Judger mindset. When the time expires, debrief on what happened and on the impact of the Judger mindset. • JUDGER ROUND 2: Reverse roles and repeat the same instructions. • LEARNER ROUND 1: The first person tells an important story about something important to them that happened this week. The second person practices being in the Learner mindset. When the time expires, debrief on what happened and on the impact of the Learner mindset. • LEARNER ROUND 2: Reverse roles and repeat the same instructions."
+    ],
+    "ground_truth": "PROCEDURE Pair up with a partner. Each person will practice being in the Judger mindset and the Learner mindset. This exercise has four rounds of two minutes each – two rounds in the Judger mindset and two rounds in the Learner mindset. • JUDGER ROUND 1: The first person tells a story about something important to them that happened this week."
+  },
+  {
+    "query": "According to the SmartSkills guide, the platinum rule in communicating?",
+    "answer": "Based on the document: Most people are familiar with the Golden Rule, “Do unto others as you would have them do unto you.” This has guided people’s behaviour for years. Now we know more about the real heart of good communications, and it’s a lot like good marketing. Find out what people want, and give it to them in the ways that work best for them.",
+    "contexts": [
+      "Most people are familiar with the Golden Rule, “Do unto others as you would have them do unto you.” This has guided people’s behaviour for years. Now we know more about the real heart of good communications, and it’s a lot like good marketing. Find out what people want, and give it to them in the ways that work best for them. THE PLATINUM RULE 1. We are all different. 2. How others like to be treated is not necessarily the same as how you would like to be treated. 3. Treat others how they would like to be treated. The Platinum Rule can be a game changer for you in work and in life. The Platinum Rule helps you decide where to put your attention and focus. It gives you an extra edge and a method for how to shift away from focusing on yourself and your needs to what the other person needs. To make this work, you have to get out of your own mind and into the mind of the person you are commun"
+    ],
+    "ground_truth": "Most people are familiar with the Golden Rule, “Do unto others as you would have them do unto you.” This has guided people’s behaviour for years. Now we know more about the real heart of good communications, and it’s a lot like good marketing. Find out what people want, and give it to them in the ways that work best for them."
+  },
+  {
+    "query": "According to the SmartSkills guide, smarter choices for good communicating?",
+    "answer": "Based on the document: We all know how to speak, but few of us know how to communicate skillfully. When the language we use is automatic and thoughtless, it shapes what we do and the results we get. There is a better and smarter way to communicate. CHOICE POINT - THE 3 ME’S NOT SO SMART When we don’t choose our words thoughtfully, and instead shoot from the hip or the heart, we: 1.",
+    "contexts": [
+      "We all know how to speak, but few of us know how to communicate skillfully. When the language we use is automatic and thoughtless, it shapes what we do and the results we get. There is a better and smarter way to communicate. CHOICE POINT - THE 3 ME’S NOT SO SMART When we don’t choose our words thoughtfully, and instead shoot from the hip or the heart, we: 1. Talk more than we need to 2. Fail to listen and learn when working with others 3. Misjudge the impact we have on the emotions of other people 4. Damage relationships 5. Sink our chances for success Sometimes we resist learning new skills because they require effort. EVERYTHING worth doing and achieving requires effort. There are no shortcuts to success. Trying and failing, continuing to try again and again, and learning from experience are the only ways to move forward."
+    ],
+    "ground_truth": "We all know how to speak, but few of us know how to communicate skillfully. When the language we use is automatic and thoughtless, it shapes what we do and the results we get. There is a better and smarter way to communicate. CHOICE POINT - THE 3 ME’S NOT SO SMART When we don’t choose our words thoughtfully, and instead shoot from the hip or the heart, we: 1."
+  },
+  {
+    "query": "What does the Experience Exercise section on 'Killer Phrases and Killer Questions' ask you to reflect on or do?",
+    "answer": "Based on the document: “It’ll never work.” “You aren’t smart enough to...” “Are you kidding me?” “Where did you come up with that ridiculous idea?” KILLER PHRASES and KILLER QUESTIONS kill ideas, stop change from happening, extinguish hope, halt new efforts and kill the human spirit. KILLER PHRASES Make a list of the ‘killer phrases’ you hear in your life.",
+    "contexts": [
+      "“It’ll never work.” “You aren’t smart enough to...” “Are you kidding me?” “Where did you come up with that ridiculous idea?” KILLER PHRASES and KILLER QUESTIONS kill ideas, stop change from happening, extinguish hope, halt new efforts and kill the human spirit. KILLER PHRASES Make a list of the ‘killer phrases’ you hear in your life. KILLER QUESTIONS Make a list of the ‘killer questions’ you hear in your life. KILLER IMPACT What is the impact of these killer phrases and killer questions on you, on the people you know, on trying new things?"
+    ],
+    "ground_truth": "“It’ll never work.” “You aren’t smart enough to...” “Are you kidding me?” “Where did you come up with that ridiculous idea?” KILLER PHRASES and KILLER QUESTIONS kill ideas, stop change from happening, extinguish hope, halt new efforts and kill the human spirit. KILLER PHRASES Make a list of the ‘killer phrases’ you hear in your life."
+  },
+  {
+    "query": "According to the SmartSkills guide, asking smart questions –?",
+    "answer": "Based on the document: Open And Closed The art and science of asking smart questions is a vital life skill. Too often people ask only closed – right or wrong – questions. These questions can shut down thought and force a decision that may or may not be right. For example: when you are operating under a tight time frame, when you need to decide quickly, and when a simple ‘yes’ or ‘no’ response is required.",
+    "contexts": [
+      "Open And Closed The art and science of asking smart questions is a vital life skill. Too often people ask only closed – right or wrong – questions. These questions can shut down thought and force a decision that may or may not be right. For example: when you are operating under a tight time frame, when you need to decide quickly, and when a simple ‘yes’ or ‘no’ response is required. Use closed questions when a yes/no or answer is needed. Here is how the JUDGER and the LEARNER mindsets use questions to get the answers they want. CLOSED OPEN JUDGER QUESTIONS LEARNER QUESTIONS •What’s wrong? •What works? •Who is to blame? •What am i responsible for? •How can i prove i am right? •What are the facts? •How can i protect myself ? •What’s the big picture? •How can i be in control? •What are my choices? •Why is that person so stupid? •What does the other person need? •Why bother? •What are the po"
+    ],
+    "ground_truth": "Open And Closed The art and science of asking smart questions is a vital life skill. Too often people ask only closed – right or wrong – questions. These questions can shut down thought and force a decision that may or may not be right. For example: when you are operating under a tight time frame, when you need to decide quickly, and when a simple ‘yes’ or ‘no’ response is required."
+  },
+  {
+    "query": "What does the Apply @ Work section on 'Closed and Open Questions' ask you to reflect on or do?",
+    "answer": "Based on the document: 1.What are the closed questions that annoy or upset you the most? 2. What are appropriate situations when you can use closed questions at work? 3. Which open-ended questions bring out the best in you? 4. What are appropriate situations when you can use open questions at work?",
+    "contexts": [
+      "1.What are the closed questions that annoy or upset you the most? 2. What are appropriate situations when you can use closed questions at work? 3. Which open-ended questions bring out the best in you? 4. What are appropriate situations when you can use open questions at work?"
+    ],
+    "ground_truth": "1.What are the closed questions that annoy or upset you the most? 2. What are appropriate situations when you can use closed questions at work? 3. Which open-ended questions bring out the best in you? 4. What are appropriate situations when you can use open questions at work?"
+  },
+  {
+    "query": "What does the Experience Exercise section on 'Picture and Practice' ask you to reflect on or do?",
+    "answer": "Based on the document: WORDS AND DEEDS Choose a situation. Identify what you would say and how you would communicate. ASK QUESTIONS TO CLARIFY SPEAK TO INFLUENCE, PERSUADE, REASSURE OR CONVINCE SPEAK TO ENGAGE AND INSPIRE OTHERS SPEAK TO INSTRUCT, TEACH AND COACH REFLECTION What are some personal insights I can take from this exercise?",
+    "contexts": [
+      "WORDS AND DEEDS Choose a situation. Identify what you would say and how you would communicate. ASK QUESTIONS TO CLARIFY SPEAK TO INFLUENCE, PERSUADE, REASSURE OR CONVINCE SPEAK TO ENGAGE AND INSPIRE OTHERS SPEAK TO INSTRUCT, TEACH AND COACH REFLECTION What are some personal insights I can take from this exercise?"
+    ],
+    "ground_truth": "WORDS AND DEEDS Choose a situation. Identify what you would say and how you would communicate. ASK QUESTIONS TO CLARIFY SPEAK TO INFLUENCE, PERSUADE, REASSURE OR CONVINCE SPEAK TO ENGAGE AND INSPIRE OTHERS SPEAK TO INSTRUCT, TEACH AND COACH REFLECTION What are some personal insights I can take from this exercise?"
+  },
+  {
+    "query": "According to the SmartSkills guide, the judger and learner?",
+    "answer": "Based on the document: Mindsets @ Work Many people stall in their careers and relationships because they can’t shift out of their own preferred way of operating into another state of mind in order to meet and match the state of mind the other person is operating in. This is how the JUDGER and the LEARNER mindsets play out in relationships at work and in life.",
+    "contexts": [
+      "Mindsets @ Work Many people stall in their careers and relationships because they can’t shift out of their own preferred way of operating into another state of mind in order to meet and match the state of mind the other person is operating in. This is how the JUDGER and the LEARNER mindsets play out in relationships at work and in life. JUDGER RELATIONSHIPS LEARNER RELATIONSHIPS • Win-lose • Win-Win • Feel separate • Feel connected • Fear differences • Value differences • debate • dialogue • listen for: • listen for: - right/Wrong - Facts - Agree/disagree - Understanding - differences - Commonalities • Seek to defend or attack • Seek to resolve and create • Feedback as rejection • Feedback as helpful Smart people learn how to shift from a constant focus on what they like, to also focusing on giving the other person what he/she needs. This is where the PLATINUM RULE can help: “Treat other"
+    ],
+    "ground_truth": "Mindsets @ Work Many people stall in their careers and relationships because they can’t shift out of their own preferred way of operating into another state of mind in order to meet and match the state of mind the other person is operating in. This is how the JUDGER and the LEARNER mindsets play out in relationships at work and in life."
+  },
+  {
+    "query": "What does the Experience Exercise section on 'Connecting With the Judger and the Learner' ask you to reflect on or do?",
+    "answer": "Based on the document: THE JUDGER Share and compare your own experience in communicating with someone who is in the Judger state of mind. What are the challenges? What works and what doesn’t work? THE LEARNER Share and compare your own experience in communicating with someone who is in the Learner state of mind.",
+    "contexts": [
+      "THE JUDGER Share and compare your own experience in communicating with someone who is in the Judger state of mind. What are the challenges? What works and what doesn’t work? THE LEARNER Share and compare your own experience in communicating with someone who is in the Learner state of mind. What are the challenges? What works and what doesn’t work?"
+    ],
+    "ground_truth": "THE JUDGER Share and compare your own experience in communicating with someone who is in the Judger state of mind. What are the challenges? What works and what doesn’t work? THE LEARNER Share and compare your own experience in communicating with someone who is in the Learner state of mind."
+  },
+  {
+    "query": "According to the SmartSkills guide, in smart communicating?",
+    "answer": "Based on the document: Three Big Ideas Here are the three big ideas that will help you get better results with everyone you meet and work with. It won’t change the other person, but it will change how you connect and communicate with them. It should also improve the results that you get with them.",
+    "contexts": [
+      "Three Big Ideas Here are the three big ideas that will help you get better results with everyone you meet and work with. It won’t change the other person, but it will change how you connect and communicate with them. It should also improve the results that you get with them. BIG IDEA NO. 1 BIG IDEA NO. 2 BIG IDEA NO. 3 ANYONE CAN BE IN GET OUT OF YOUR THE MORE MINDSETS ANY MINDSET AT OWN MIND TO YOU CAN OPERATE ANY GIVEN TIME FIND SUCCESS WITH IN, THE GREATER THE OTHERS SUCCESS YOU WILL HAVE Your own personal operating style is how you like to operate. It pinpoints what you want to achieve. However, depending upon the situation, most people can be in mindsets and colours that are not their most preferred. As situations change, people change. In smart communicating, you have to be able to detect where they are and know how to connect with them. Smart How To’s: 5 Simple Guidelines Here are"
+    ],
+    "ground_truth": "Three Big Ideas Here are the three big ideas that will help you get better results with everyone you meet and work with. It won’t change the other person, but it will change how you connect and communicate with them. It should also improve the results that you get with them."
+  },
+  {
+    "query": "What does the Apply @ Work section on 'Labels vs Contributions' ask you to reflect on or do?",
+    "answer": "Based on the document: PROCEDURE How you see it is what you get. Identify the types of negative labels we give to people. Identify the positive contribution each state of mind brings. Develop a simple point form chart. NEGATIVE LABELS POSITIVE CONTRIBUTIONS Cool Red: Critical Thinkers Warm Red: Values-Driven Gut Intuition Cool Yellow: Analytical Thinkers Warm Yellow: Compassionates Cool Green: Creative Thinkers Warm Green: Creative Intuitives",
+    "contexts": [
+      "PROCEDURE How you see it is what you get. Identify the types of negative labels we give to people. Identify the positive contribution each state of mind brings. Develop a simple point form chart. NEGATIVE LABELS POSITIVE CONTRIBUTIONS Cool Red: Critical Thinkers Warm Red: Values-Driven Gut Intuition Cool Yellow: Analytical Thinkers Warm Yellow: Compassionates Cool Green: Creative Thinkers Warm Green: Creative Intuitives"
+    ],
+    "ground_truth": "PROCEDURE How you see it is what you get. Identify the types of negative labels we give to people. Identify the positive contribution each state of mind brings. Develop a simple point form chart. NEGATIVE LABELS POSITIVE CONTRIBUTIONS Cool Red: Critical Thinkers Warm Red: Values-Driven Gut Intuition Cool Yellow: Analytical Thinkers Warm Yellow: Compassionates Cool Green: Creative Thinkers Warm Green: Creative Intuitives"
+  },
+  {
+    "query": "What does the Apply @ Work section on 'Refl on Speaking' ask you to reflect on or do?",
+    "answer": "Based on the document: and Communicating PRACTICAL APPLICATIONS AND REFLECTIONS YELLOW List three things that you experienced, noticed or felt in practicing communcation skills. RED Select the two most important take-away lessons to improve your communication skills at work.",
+    "contexts": [
+      "and Communicating PRACTICAL APPLICATIONS AND REFLECTIONS YELLOW List three things that you experienced, noticed or felt in practicing communcation skills. RED Select the two most important take-away lessons to improve your communication skills at work. GREEN Come up with three ways you can use what you have learned in a workplace. WHITE Select one initiative you will take to improve your skills."
+    ],
+    "ground_truth": "and Communicating PRACTICAL APPLICATIONS AND REFLECTIONS YELLOW List three things that you experienced, noticed or felt in practicing communcation skills. RED Select the two most important take-away lessons to improve your communication skills at work."
+  },
+  {
+    "query": "What does the Experience Exercise section on 'Killer Phrases' ask you to reflect on or do?",
+    "answer": "Based on the document: Think about all of the times people have used words, phrases or comments that stop you in your tracks. These ‘killer phrases’ often happen suddenly. We usually react negatively in the moment, or feel hurt and don’t know how to deal with it. For example: you suggest a new idea to solve an ongoing problem.",
+    "contexts": [
+      "Think about all of the times people have used words, phrases or comments that stop you in your tracks. These ‘killer phrases’ often happen suddenly. We usually react negatively in the moment, or feel hurt and don’t know how to deal with it. For example: you suggest a new idea to solve an ongoing problem. Others respond with Killer Phrases such as; “We don’t need new ideas we need solutions”, “We tried that and it just caused us more work.” “They won’t listen to our ideas anyway so there’s no point in making suggestions”. “We don’t have the money for that” List some of the killer lines or killer phrases people have used with you. While you are thinking of your examples, pay attention to the thoughts and emotions you are experiencing? How do these comments make you feel? Take some time to think of constructive/positive responses and actions you could use for each of those Killer lines and "
+    ],
+    "ground_truth": "Think about all of the times people have used words, phrases or comments that stop you in your tracks. These ‘killer phrases’ often happen suddenly. We usually react negatively in the moment, or feel hurt and don’t know how to deal with it. For example: you suggest a new idea to solve an ongoing problem."
+  },
+  {
+    "query": "According to the SmartSkills guide, the 5:1 ratio -?",
+    "answer": "Based on the document: 5 Positives for every 1 Negative Researchers have discovered that high-performing teams and people have a secret to their success. They use a ratio of five positive comments or responses for every negative one. This sets a constructive tone for working well with others.",
+    "contexts": [
+      "5 Positives for every 1 Negative Researchers have discovered that high-performing teams and people have a secret to their success. They use a ratio of five positive comments or responses for every negative one. This sets a constructive tone for working well with others. Negativity has a very powerful and of course, negative, impact on relationships. Researchers have found that it takes five positive responses to undo the damage of one negative comment. Smart people work hard to remain positive and not to respond negatively to other people’s negativity. They have learned approaches and skills to help continue moving things forward. Groups are the way work gets done. How to work well with others in groups is essential for success at work. High quality relationships with other people are the bedrock of good teamwork and respectful workplaces. Great relationships mean people know and trust e"
+    ],
+    "ground_truth": "5 Positives for every 1 Negative Researchers have discovered that high-performing teams and people have a secret to their success. They use a ratio of five positive comments or responses for every negative one. This sets a constructive tone for working well with others."
+  },
+  {
+    "query": "What does the Experience Exercise section on 'Finding the Keys to' ask you to reflect on or do?",
+    "answer": "Based on the document: Working Well in Groups and Teams Think of examples of groups and teams from your community, e.g., sports, hobby, volunteer, community groups, etc. Discuss what makes teams work well together. From your experience, what do group members do that frustrates you and undermines success?",
+    "contexts": [
+      "Working Well in Groups and Teams Think of examples of groups and teams from your community, e.g., sports, hobby, volunteer, community groups, etc. Discuss what makes teams work well together. From your experience, what do group members do that frustrates you and undermines success? What advice would you give to new teams and new members of a team in order to help them get started down the right path? NOTES:"
+    ],
+    "ground_truth": "Working Well in Groups and Teams Think of examples of groups and teams from your community, e.g., sports, hobby, volunteer, community groups, etc. Discuss what makes teams work well together. From your experience, what do group members do that frustrates you and undermines success?"
+  },
+  {
+    "query": "What does the Apply @ Work section on 'Promoting Yourself' ask you to reflect on or do?",
+    "answer": "Based on the document: If you were applying for a job or a promotion, what would you write in a letter or say in an interview about your working with others skills. • Explain how you can contribute to a group or work team’s success. • Write down key sentences you could use to describe how you would apply and use what you have learned about skills for working with others.",
+    "contexts": [
+      "If you were applying for a job or a promotion, what would you write in a letter or say in an interview about your working with others skills. • Explain how you can contribute to a group or work team’s success. • Write down key sentences you could use to describe how you would apply and use what you have learned about skills for working with others. • Develop a list of examples that show you being a positive contributor to a group, team or workplace. • Include several examples of the inter-personal skills you have developed in your volunteer or community group work. For example – “As a Girl Guide leader I am developing young girls and women for leadership roles. I coach and mentor girls from a diversity of backgrounds to work together well and to value each other’s contributions. It seems like it rains at every outdoor event we have, but I model solid inter-personal skills by always speak"
+    ],
+    "ground_truth": "If you were applying for a job or a promotion, what would you write in a letter or say in an interview about your working with others skills. • Explain how you can contribute to a group or work team’s success. • Write down key sentences you could use to describe how you would apply and use what you have learned about skills for working with others."
+  },
+  {
+    "query": "What does the Experience Exercise section on 'Shifting Mindsets' ask you to reflect on or do?",
+    "answer": "Based on the document: Start with a review of the seven different mindsets – creative thinking, creative intuition, analytical thinking, compassion, critical thinking, and values-driven and gut instinct decision making. Which ones are you most comfortable with? Which ones are the most difficult to get into?",
+    "contexts": [
+      "Start with a review of the seven different mindsets – creative thinking, creative intuition, analytical thinking, compassion, critical thinking, and values-driven and gut instinct decision making. Which ones are you most comfortable with? Which ones are the most difficult to get into? Think of people you know or who you have worked with, and recall the mindsets they would get stuck in. Which ones are the hardest for you to shift out of and into? NOTES:"
+    ],
+    "ground_truth": "Start with a review of the seven different mindsets – creative thinking, creative intuition, analytical thinking, compassion, critical thinking, and values-driven and gut instinct decision making. Which ones are you most comfortable with? Which ones are the most difficult to get into?"
+  },
+  {
+    "query": "According to the SmartSkills guide, smart power shifting –?",
+    "answer": "Based on the document: From One Mindset to Another Successful people achieve extraordinary results by knowing how to use all four of the thinking dimensions. You can learn to use these states of mind to improve your own results with others. “Adaptability is the ability to perceive when a new kind of behavior is called for and to respond appropriately (with action or non-action) while remaining true to oneself.” – Richard Wedemeyer and Ronald Jue, !e Inner Edge The more versatility and adaptability you develop, the more able you are to deal with different people and circumstances.",
+    "contexts": [
+      "From One Mindset to Another Successful people achieve extraordinary results by knowing how to use all four of the thinking dimensions. You can learn to use these states of mind to improve your own results with others. “Adaptability is the ability to perceive when a new kind of behavior is called for and to respond appropriately (with action or non-action) while remaining true to oneself.” – Richard Wedemeyer and Ronald Jue, !e Inner Edge The more versatility and adaptability you develop, the more able you are to deal with different people and circumstances. Smart power shifting gives you the tools and skills to increase your adaptability in a deliberate and disciplined way. It helps you to achieve specific outcomes for yourself and with other people. Power shifting is a tool to increase your possibilities for success. It will help you precisely match your thinking skills with the demands"
+    ],
+    "ground_truth": "From One Mindset to Another Successful people achieve extraordinary results by knowing how to use all four of the thinking dimensions. You can learn to use these states of mind to improve your own results with others. “Adaptability is the ability to perceive when a new kind of behavior is called for and to respond appropriately (with action or non-action) while remaining true to oneself.” – Richard Wedemeyer and Ronald Jue, !e Inner Edge The more versatility and adaptability you develop, the more able you are to deal with different people and circumstances."
+  },
+  {
+    "query": "According to the SmartSkills guide, step 1 - spot and stop?",
+    "answer": "Based on the document: Here are ways to stop one type of thinking before you shift to another. STOP YOUR GREEN CREATIVE THINKING • Take a deep breath and turn off your idea engine • Say – “Stop being Green. Time to park it” • Do – step back and shift your attention to dealing with the task at hand or to the other person • Ask – “What is the most important thing I need to do right now to move forward?” STOP YOUR COOL YELLOW ANALYTICAL THINKING • Take a deep breath and turn off your need for more data • Say – “Stop analysing and gathering more information” • Do – step back and shift your attention to using the information to take action • Ask – “What is the most important thing I need to do right now to use this info?’ STOP YOUR WARM YELLOW COMPASSION • Take a deep breath and try to focus on facts rather than feelings.",
+    "contexts": [
+      "Here are ways to stop one type of thinking before you shift to another. STOP YOUR GREEN CREATIVE THINKING • Take a deep breath and turn off your idea engine • Say – “Stop being Green. Time to park it” • Do – step back and shift your attention to dealing with the task at hand or to the other person • Ask – “What is the most important thing I need to do right now to move forward?” STOP YOUR COOL YELLOW ANALYTICAL THINKING • Take a deep breath and turn off your need for more data • Say – “Stop analysing and gathering more information” • Do – step back and shift your attention to using the information to take action • Ask – “What is the most important thing I need to do right now to use this info?’ STOP YOUR WARM YELLOW COMPASSION • Take a deep breath and try to focus on facts rather than feelings. • Say – “Stop worrying about my feelings and everyone else’s for now” • Do – step back and shi"
+    ],
+    "ground_truth": "Here are ways to stop one type of thinking before you shift to another. STOP YOUR GREEN CREATIVE THINKING • Take a deep breath and turn off your idea engine • Say – “Stop being Green. Time to park it” • Do – step back and shift your attention to dealing with the task at hand or to the other person • Ask – “What is the most important thing I need to do right now to move forward?” STOP YOUR COOL YELLOW ANALYTICAL THINKING • Take a deep breath and turn off your need for more data • Say – “Stop analysing and gathering more information” • Do – step back and shift your attention to using the information to take action • Ask – “What is the most important thing I need to do right now to use this info?’ STOP YOUR WARM YELLOW COMPASSION • Take a deep breath and try to focus on facts rather than feelings."
+  },
+  {
+    "query": "What does the Apply @ Work section on 'How to Make a Shift in' ask you to reflect on or do?",
+    "answer": "Based on the document: Conversation Identify situations that you have experienced, or think that you might have to deal with in the future, with your co-workers, customers, supervisor or others where this conversation and group work transition skill would be most helpful. NOTES:",
+    "contexts": [
+      "Conversation Identify situations that you have experienced, or think that you might have to deal with in the future, with your co-workers, customers, supervisor or others where this conversation and group work transition skill would be most helpful. NOTES:"
+    ],
+    "ground_truth": "Conversation Identify situations that you have experienced, or think that you might have to deal with in the future, with your co-workers, customers, supervisor or others where this conversation and group work transition skill would be most helpful. NOTES:"
+  },
+  {
+    "query": "What does the Apply @ Work section on 'Ideas to Decisions' ask you to reflect on or do?",
+    "answer": "Based on the document: Imagine some possible work situations where a conversation or meeting is in the same mindset for too long and there is a need to shift to doing something else. How would you know when to make the shift, and what would you say and do? NOTES:",
+    "contexts": [
+      "Imagine some possible work situations where a conversation or meeting is in the same mindset for too long and there is a need to shift to doing something else. How would you know when to make the shift, and what would you say and do? NOTES:"
+    ],
+    "ground_truth": "Imagine some possible work situations where a conversation or meeting is in the same mindset for too long and there is a need to shift to doing something else. How would you know when to make the shift, and what would you say and do? NOTES:"
+  },
+  {
+    "query": "What does the Apply @ Work section on 'Information to Action' ask you to reflect on or do?",
+    "answer": "Based on the document: Imagine some possible work situations where a conversation or meeting is in the same mindset for too long and there is a need to shift to doing something else. How would you know when to make the shift, and what would you say and do? NOTES:",
+    "contexts": [
+      "Imagine some possible work situations where a conversation or meeting is in the same mindset for too long and there is a need to shift to doing something else. How would you know when to make the shift, and what would you say and do? NOTES:"
+    ],
+    "ground_truth": "Imagine some possible work situations where a conversation or meeting is in the same mindset for too long and there is a need to shift to doing something else. How would you know when to make the shift, and what would you say and do? NOTES:"
+  },
+  {
+    "query": "What does the Apply @ Work section on 'Ideas to Categories' ask you to reflect on or do?",
+    "answer": "Based on the document: Imagine some possible work situations where a conversation or meeting is in the same mindset for too long and there is a need to shift to doing something else. How would you know when to make the shift, and what would you say and do? NOTES:",
+    "contexts": [
+      "Imagine some possible work situations where a conversation or meeting is in the same mindset for too long and there is a need to shift to doing something else. How would you know when to make the shift, and what would you say and do? NOTES:"
+    ],
+    "ground_truth": "Imagine some possible work situations where a conversation or meeting is in the same mindset for too long and there is a need to shift to doing something else. How would you know when to make the shift, and what would you say and do? NOTES:"
+  },
+  {
+    "query": "What does the Apply @ Work section on 'Issues to Options' ask you to reflect on or do?",
+    "answer": "Based on the document: Imagine some possible work situations where a conversation or meeting is in the same mindset for too long and there is a need to shift to doing something else. How would you know when to make the shift, and what would you say and do? NOTES:",
+    "contexts": [
+      "Imagine some possible work situations where a conversation or meeting is in the same mindset for too long and there is a need to shift to doing something else. How would you know when to make the shift, and what would you say and do? NOTES:"
+    ],
+    "ground_truth": "Imagine some possible work situations where a conversation or meeting is in the same mindset for too long and there is a need to shift to doing something else. How would you know when to make the shift, and what would you say and do? NOTES:"
+  },
+  {
+    "query": "What does the Apply @ Work section on 'Information to Options' ask you to reflect on or do?",
+    "answer": "Based on the document: Imagine some work situations where a conversation or meeting has been in the same mindset for too long and there is a need to shift to doing something else. How would you know when to make the shift, and what would you say and do? NOTES:",
+    "contexts": [
+      "Imagine some work situations where a conversation or meeting has been in the same mindset for too long and there is a need to shift to doing something else. How would you know when to make the shift, and what would you say and do? NOTES:"
+    ],
+    "ground_truth": "Imagine some work situations where a conversation or meeting has been in the same mindset for too long and there is a need to shift to doing something else. How would you know when to make the shift, and what would you say and do? NOTES:"
+  },
+  {
+    "query": "What does the Experience Exercise section on 'Feedback on' ask you to reflect on or do?",
+    "answer": "Based on the document: Feedback 1. From your experience, what do you say to someone who is not performing properly on a team or in a group? 2. What techniques do you use that would work well? 3. What techniques would make it worse? 4. When someone has to give you feedback on your performance, what works best for you and what doesn’t work?",
+    "contexts": [
+      "Feedback 1. From your experience, what do you say to someone who is not performing properly on a team or in a group? 2. What techniques do you use that would work well? 3. What techniques would make it worse? 4. When someone has to give you feedback on your performance, what works best for you and what doesn’t work?"
+    ],
+    "ground_truth": "Feedback 1. From your experience, what do you say to someone who is not performing properly on a team or in a group? 2. What techniques do you use that would work well? 3. What techniques would make it worse? 4. When someone has to give you feedback on your performance, what works best for you and what doesn’t work?"
+  },
+  {
+    "query": "According to the SmartSkills guide, coaching,?",
+    "answer": "Based on the document: Communicating and Learning Points Feedback is any information you get about yourself. No learning or growth happens without feedback. Feedback tells us how we are doing, and gives us the opportunity to self-correct, adjust and adapt so that what we do works better.",
+    "contexts": [
+      "Communicating and Learning Points Feedback is any information you get about yourself. No learning or growth happens without feedback. Feedback tells us how we are doing, and gives us the opportunity to self-correct, adjust and adapt so that what we do works better. One big problem is that most of us are not very good at giving feedback. Another big problem is that most of us are not very good at receiving feedback either. There is often a huge resistance to giving it and to hearing what others say since learning about ourselves can be difficult and painful to hear and accept. THE THREE TYPES OF FEEDBACK ARE: s !002%#)!4)/. – a shout out, a thank you and recognition of the positive impact and difference you make through your efforts and behaviour. It motivates you. s #/!#().' – to help someone expand their skills and capabilities by providing information and guidance. The focus is on some"
+    ],
+    "ground_truth": "Communicating and Learning Points Feedback is any information you get about yourself. No learning or growth happens without feedback. Feedback tells us how we are doing, and gives us the opportunity to self-correct, adjust and adapt so that what we do works better."
+  },
+  {
+    "query": "According to the SmartSkills guide, the johari window?",
+    "answer": "Based on the document: A simple model for understanding each other better and giving feedback is the Johari window. The Johari window depicts four aspects of ourselves: WHAT YOU DO NOT SEE WHAT YOU SEE IN ME IN ME The Private Self WHAT I SEE IN ME The Public Self (or Hidden) Self WHAT I DO NOT The Blind Self The Undiscovered Self SEE IN ME • PUBLIC SELF – what I and others know about me • PRIVATE SELF – what I know about myself, but others don’t know • BLIND SPOT – what others know about me that I don’t know about me • UNDISCOVERED SELF – the undiscovered and untapped me The Johari window is one way of understanding feedback.",
+    "contexts": [
+      "A simple model for understanding each other better and giving feedback is the Johari window. The Johari window depicts four aspects of ourselves: WHAT YOU DO NOT SEE WHAT YOU SEE IN ME IN ME The Private Self WHAT I SEE IN ME The Public Self (or Hidden) Self WHAT I DO NOT The Blind Self The Undiscovered Self SEE IN ME • PUBLIC SELF – what I and others know about me • PRIVATE SELF – what I know about myself, but others don’t know • BLIND SPOT – what others know about me that I don’t know about me • UNDISCOVERED SELF – the undiscovered and untapped me The Johari window is one way of understanding feedback. It sometimes focuses on giving feedback on what you already understand about yourself. It is particularly useful in helping you uncover your blind spot – good things you need to know about yourself, and things about yourself that have a negative or poor impact on others. NOTES:"
+    ],
+    "ground_truth": "A simple model for understanding each other better and giving feedback is the Johari window. The Johari window depicts four aspects of ourselves: WHAT YOU DO NOT SEE WHAT YOU SEE IN ME IN ME The Private Self WHAT I SEE IN ME The Public Self (or Hidden) Self WHAT I DO NOT The Blind Self The Undiscovered Self SEE IN ME • PUBLIC SELF – what I and others know about me • PRIVATE SELF – what I know about myself, but others don’t know • BLIND SPOT – what others know about me that I don’t know about me • UNDISCOVERED SELF – the undiscovered and untapped me The Johari window is one way of understanding feedback."
+  },
+  {
+    "query": "What does the Apply @ Work section on 'Feedback' ask you to reflect on or do?",
+    "answer": "Based on the document: Discuss situations in the workplace where it might be important to give feedback to a co-worker or supervisor. 1. What are the situations? 2. Why is it important to offer feedback? 3.What will probably make it difficult? 4. What could make it better?",
+    "contexts": [
+      "Discuss situations in the workplace where it might be important to give feedback to a co-worker or supervisor. 1. What are the situations? 2. Why is it important to offer feedback? 3.What will probably make it difficult? 4. What could make it better?"
+    ],
+    "ground_truth": "Discuss situations in the workplace where it might be important to give feedback to a co-worker or supervisor. 1. What are the situations? 2. Why is it important to offer feedback? 3.What will probably make it difficult? 4. What could make it better?"
+  },
+  {
+    "query": "What does the Apply @ Work section on 'User Feedback' ask you to reflect on or do?",
+    "answer": "Based on the document: Discuss how to use these skills in the workplace with different types of supervisors and co-workers. Work on an approach to test out, based on: 1. How do you like to receive feedback? 2. Whose feedback do you value most/least? 3. When is the ideal time for you to receive feedback (eg; while learning a new skill)?",
+    "contexts": [
+      "Discuss how to use these skills in the workplace with different types of supervisors and co-workers. Work on an approach to test out, based on: 1. How do you like to receive feedback? 2. Whose feedback do you value most/least? 3. When is the ideal time for you to receive feedback (eg; while learning a new skill)? 4. What usually works best for you?"
+    ],
+    "ground_truth": "Discuss how to use these skills in the workplace with different types of supervisors and co-workers. Work on an approach to test out, based on: 1. How do you like to receive feedback? 2. Whose feedback do you value most/least? 3. When is the ideal time for you to receive feedback (eg; while learning a new skill)?"
+  },
+  {
+    "query": "According to the SmartSkills guide, confl?",
+    "answer": "Based on the document: A conflict is when people or groups differ and are at odds with each other over who is right or wrong, or how a solution is to be arrived at. Here are three potential scenarios: WIN-WIN – when both sides give and take and achieve benefits WIN-LOSE – when one side wins at the expense of the other side LOSE-LOSE – when the way the conflict is handled ends with both sides losing GETTING TO YES Roger Fisher, William Ury and Bruce Patton are Harvard University experts in conflict who wrote a famous book about negotiating called Getting to Yes.",
+    "contexts": [
+      "A conflict is when people or groups differ and are at odds with each other over who is right or wrong, or how a solution is to be arrived at. Here are three potential scenarios: WIN-WIN – when both sides give and take and achieve benefits WIN-LOSE – when one side wins at the expense of the other side LOSE-LOSE – when the way the conflict is handled ends with both sides losing GETTING TO YES Roger Fisher, William Ury and Bruce Patton are Harvard University experts in conflict who wrote a famous book about negotiating called Getting to Yes. They focus on negotiating skills and processes to achieve results that feel fair enough to both parties and are win-win. Over time, collaboration consistently wins out over a win- lose approach in most organizations. The five key points from the experts are: 1. Separate the person/people from the problem. Focus on the issues that need to be dealt with, "
+    ],
+    "ground_truth": "A conflict is when people or groups differ and are at odds with each other over who is right or wrong, or how a solution is to be arrived at. Here are three potential scenarios: WIN-WIN – when both sides give and take and achieve benefits WIN-LOSE – when one side wins at the expense of the other side LOSE-LOSE – when the way the conflict is handled ends with both sides losing GETTING TO YES Roger Fisher, William Ury and Bruce Patton are Harvard University experts in conflict who wrote a famous book about negotiating called Getting to Yes."
+  },
+  {
+    "query": "According to the SmartSkills guide, the colours of confl?",
+    "answer": "Based on the document: The Red mindset is at the heart and the colour of conflict. This mindset does not consist of people who are high in Red, but people who choose to be in Red because that is when they make decisions. In the Red zone, you have to decide what you want, what is right, and what is fair or not fair.",
+    "contexts": [
+      "The Red mindset is at the heart and the colour of conflict. This mindset does not consist of people who are high in Red, but people who choose to be in Red because that is when they make decisions. In the Red zone, you have to decide what you want, what is right, and what is fair or not fair. The resolution of all conflict is also in Red – the ability to make practical, sensible decisions and commitments that align with your values, as well as the values of others. USE COOL RED/CRITICAL THINKING – use the logic, objectivity, practicality and real differences expressed by each party to help them achieve their aims. It’s easier to work through conflict by staying objective and following the expert’s guidelines from the previous page. USE WARM RED/VALUES DRIVEN – personal values and beliefs are at the core of many differences. These include issues of fairness and personal points of view, an"
+    ],
+    "ground_truth": "The Red mindset is at the heart and the colour of conflict. This mindset does not consist of people who are high in Red, but people who choose to be in Red because that is when they make decisions. In the Red zone, you have to decide what you want, what is right, and what is fair or not fair."
+  },
+  {
+    "query": "What does the Experience Exercise section on 'Worst and Best' ask you to reflect on or do?",
+    "answer": "Based on the document: What are some of the worst conflicts you have seen or been a part of when on a team or in a group? What went wrong? What was your takeaway? What are some of the most effective ways to resolve conflicts you have witnessed or been a part of ? Why did they turn out successfully?",
+    "contexts": [
+      "What are some of the worst conflicts you have seen or been a part of when on a team or in a group? What went wrong? What was your takeaway? What are some of the most effective ways to resolve conflicts you have witnessed or been a part of ? Why did they turn out successfully? What happened that made the difference? What was your takeaway? NOTES:"
+    ],
+    "ground_truth": "What are some of the worst conflicts you have seen or been a part of when on a team or in a group? What went wrong? What was your takeaway? What are some of the most effective ways to resolve conflicts you have witnessed or been a part of ? Why did they turn out successfully?"
+  },
+  {
+    "query": "What does the Experience Exercise section on 'Red or Dead' ask you to reflect on or do?",
+    "answer": "Based on the document: In some situations it is impossible to find a way through conflict because one party is aggressive , has more power and little respect for the other party, or there is a lack of fairness in the way things are going. Have you been in this situation? How did you deal with it?",
+    "contexts": [
+      "In some situations it is impossible to find a way through conflict because one party is aggressive , has more power and little respect for the other party, or there is a lack of fairness in the way things are going. Have you been in this situation? How did you deal with it? NOTES:"
+    ],
+    "ground_truth": "In some situations it is impossible to find a way through conflict because one party is aggressive , has more power and little respect for the other party, or there is a lack of fairness in the way things are going. Have you been in this situation? How did you deal with it?"
+  },
+  {
+    "query": "What does the Apply @ Work section on 'Practical Applications' ask you to reflect on or do?",
+    "answer": "Based on the document: Now you know the Smart Skills language to better understand yourself and other people, and you know how to use the Smart Track processes to get to ‘yes’. Discuss possible situations at work where you could use this knowledge and skills.",
+    "contexts": [
+      "Now you know the Smart Skills language to better understand yourself and other people, and you know how to use the Smart Track processes to get to ‘yes’. Discuss possible situations at work where you could use this knowledge and skills."
+    ],
+    "ground_truth": "Now you know the Smart Skills language to better understand yourself and other people, and you know how to use the Smart Track processes to get to ‘yes’. Discuss possible situations at work where you could use this knowledge and skills."
+  },
+  {
+    "query": "According to the SmartSkills guide, the smart writing and?",
+    "answer": "Based on the document: Communication Guide Two main components to effective writing are the words you choose to use and plan the structure, or steps you need to organize your writing. The purpose of this Smart Writing and Communicating Guide is to provide you with the right language to use in order to organize your thinking and get the results you want when you need to write or speak more clearly.",
+    "contexts": [
+      "Communication Guide Two main components to effective writing are the words you choose to use and plan the structure, or steps you need to organize your writing. The purpose of this Smart Writing and Communicating Guide is to provide you with the right language to use in order to organize your thinking and get the results you want when you need to write or speak more clearly. This guide is based on the framework of the Smart Skills® 4 dimensions of high performance thinking – creativity, understanding, decision making and personal spirit, the 7 mindsets and the 21 strategies. Use this guide as your kit of precision tools to build skills in speaking and writing. When you plan how to speak or write, start first with the task and the person in mind. What type of thinking is best suited to describe and accomplish the task? • To persuade and convince others – go to Red • To describe and explai"
+    ],
+    "ground_truth": "Communication Guide Two main components to effective writing are the words you choose to use and plan the structure, or steps you need to organize your writing. The purpose of this Smart Writing and Communicating Guide is to provide you with the right language to use in order to organize your thinking and get the results you want when you need to write or speak more clearly."
+  },
+  {
+    "query": "According to the SmartSkills guide, the 21 strategies your?",
+    "answer": "Based on the document: Precision Thinking Tools for Speaking and Writing The 7 mindsets and Personal Spirit are each built on from one to four of 21 strategies in the system. These strategies give you a set of sharp, precise verbal tools for thinking, speaking and writing more effectively.",
+    "contexts": [
+      "Precision Thinking Tools for Speaking and Writing The 7 mindsets and Personal Spirit are each built on from one to four of 21 strategies in the system. These strategies give you a set of sharp, precise verbal tools for thinking, speaking and writing more effectively. This 21 strategies writing and speaking section highlights the precise action words to use to produce the results you want. It offers you a mini-library of the very specific words and phrases to use to ensure your communication is clear, concise and effective. SPEAK AND WRITE TO DECIDE COOL RED: CRITICAL THINKING TO PINPOINT ISSUES AND MAKE PRACTICAL DECISIONS 1. GET TO THE CRUX • Action words – focus, get to, pinpoint, uncover, zero in, determine, identify • Nouns – core, heart, essence, key, meat, root, nut, nub, bottom line, the one 2. COME TO A CONCLUSION • Action words – decide, determine, agree, wind up, finish, end • "
+    ],
+    "ground_truth": "Precision Thinking Tools for Speaking and Writing The 7 mindsets and Personal Spirit are each built on from one to four of 21 strategies in the system. These strategies give you a set of sharp, precise verbal tools for thinking, speaking and writing more effectively."
+  },
+  {
+    "query": "What does the Experience Exercise section on 'Stories and TV Shows' ask you to reflect on or do?",
+    "answer": "Based on the document: Good thinking is behind all good writing. Good writing is behind the TV shows we like, the movies that move us and the stories in the books that we enjoy the most. Think back to your favourite books, movies you loved, or TV shows that you found interesting.",
+    "contexts": [
+      "Good thinking is behind all good writing. Good writing is behind the TV shows we like, the movies that move us and the stories in the books that we enjoy the most. Think back to your favourite books, movies you loved, or TV shows that you found interesting. What is it about the writing that made them interesting, educational or entertaining for you? What type of writing style works for you and makes you most interested? What type of writing style doesn’t work for you? NOTES:"
+    ],
+    "ground_truth": "Good thinking is behind all good writing. Good writing is behind the TV shows we like, the movies that move us and the stories in the books that we enjoy the most. Think back to your favourite books, movies you loved, or TV shows that you found interesting."
+  },
+  {
+    "query": "According to the SmartSkills guide, writing as an?",
+    "answer": "Based on the document: Essential Skill Employers say they need workers who are able to write in order to communicate a clear, correct and complete message that is easily understood by others. To make this happen, the writing must be appropriate to the purpose, the audience and the situation, and contain proper spelling, grammar and punctuation.",
+    "contexts": [
+      "Essential Skill Employers say they need workers who are able to write in order to communicate a clear, correct and complete message that is easily understood by others. To make this happen, the writing must be appropriate to the purpose, the audience and the situation, and contain proper spelling, grammar and punctuation. Workplace writing may include a short entry in a form, an email to a supervisor, a note for a co-worker, the filling in of a template, instructions for others, or the preparation of an incident report. The writing may be formal or informal, detailed or quite brief. Writing is a process. It involves planning and organizing, writing, revising and proofreading. Effective writing is well-thought out before the first word is even written, and the thinking doesn’t stop after the first draft. Most writing experts suggest the following: 25% for planning/organizing, 25% for writ"
+    ],
+    "ground_truth": "Essential Skill Employers say they need workers who are able to write in order to communicate a clear, correct and complete message that is easily understood by others. To make this happen, the writing must be appropriate to the purpose, the audience and the situation, and contain proper spelling, grammar and punctuation."
+  },
+  {
+    "query": "According to the SmartSkills guide, the colours of?",
+    "answer": "Based on the document: Good Writing Once you have learned the SmartSkills language to speak and communicate more clearly with others, you can use the same language to improve and develop your writing skills. The value of SmartSkills is that it can help you plan and organize what you want to communicate, and then provide you with the necessary key words and phrases to help you get your message across when you want to write it down.",
+    "contexts": [
+      "Good Writing Once you have learned the SmartSkills language to speak and communicate more clearly with others, you can use the same language to improve and develop your writing skills. The value of SmartSkills is that it can help you plan and organize what you want to communicate, and then provide you with the necessary key words and phrases to help you get your message across when you want to write it down. A simple and practical way to organize your writing is to use the colour-coded smart tracks. Use the colours to target your writing. BE COOL WHEN YOU WRITE Most writing is done in the three cool colours: • cool red – get to the point! Only write short notes on what is essential and most important. Writing less is more in Cool Red. “We need to… We must... The evidence is clear that… We need to agree that…” • cool yellow – write down all of the facts. Collect and record all of the data"
+    ],
+    "ground_truth": "Good Writing Once you have learned the SmartSkills language to speak and communicate more clearly with others, you can use the same language to improve and develop your writing skills. The value of SmartSkills is that it can help you plan and organize what you want to communicate, and then provide you with the necessary key words and phrases to help you get your message across when you want to write it down."
+  },
+  {
+    "query": "What does the Apply @ Work section on 'Writing as Essential Skill' ask you to reflect on or do?",
+    "answer": "Based on the document: 1. Identify specific situations or work tasks where it is essential that you have basic writing skills. 2. What are the consequences for being unable to write clearly and properly?",
+    "contexts": [
+      "1. Identify specific situations or work tasks where it is essential that you have basic writing skills. 2. What are the consequences for being unable to write clearly and properly?"
+    ],
+    "ground_truth": "1. Identify specific situations or work tasks where it is essential that you have basic writing skills. 2. What are the consequences for being unable to write clearly and properly?"
+  },
+  {
+    "query": "According to the SmartSkills guide, 8 guidelines for?",
+    "answer": "Based on the document: Clear Writing Here is a set of key points to help you write better: 1. clear Purpose – is the intent of the writing clear? Were you clear on what the speaker/writer wanted to communicate? 2. clear and Simple Words – are the words clear, simple, easy to understand and explain to others?",
+    "contexts": [
+      "Clear Writing Here is a set of key points to help you write better: 1. clear Purpose – is the intent of the writing clear? Were you clear on what the speaker/writer wanted to communicate? 2. clear and Simple Words – are the words clear, simple, easy to understand and explain to others? 3. Active, not passive Voice – is the subject doing the action, or is action being done by the subject? 4. language to Match purpose – does the colour code of the language match the purpose? 5. Short, Single point Sentences – are the sentences short and make one key point? 6. Sensible, logical Sequence – is there a clear sequence with a beginning, middle and end to make it easy to understand and follow? 7. constructive – does the writing contribute to identifying what the problem/issue is, including what could be done versus blaming, attacking or avoiding responsibility? 8. clear conclusion – does the writ"
+    ],
+    "ground_truth": "Clear Writing Here is a set of key points to help you write better: 1. clear Purpose – is the intent of the writing clear? Were you clear on what the speaker/writer wanted to communicate? 2. clear and Simple Words – are the words clear, simple, easy to understand and explain to others?"
+  },
+  {
+    "query": "What does the Apply @ Work section on 'Write a Two-Step' ask you to reflect on or do?",
+    "answer": "Based on the document: Communication Think of a topic to write about. Develop a two-step plan to communicate this subject. 1. 2.",
+    "contexts": [
+      "Communication Think of a topic to write about. Develop a two-step plan to communicate this subject. 1. 2."
+    ],
+    "ground_truth": "Communication Think of a topic to write about. Develop a two-step plan to communicate this subject. 1. 2."
+  },
+  {
+    "query": "According to the SmartSkills guide, the w5 and smart tracks?",
+    "answer": "Based on the document: There are many ways to organize a writing plan. Here are three primary ways: the W5 Plan; the Smart Tracks – Two-, Three- and Five-Step and Customized; and the Mind Map. 1. THE W5 PLAN: START WITH WHAT AND WHY, OR START WITH WHO One of the best ways is organize your writing is to use a consistent framework to put your thoughts into a logical order.",
+    "contexts": [
+      "There are many ways to organize a writing plan. Here are three primary ways: the W5 Plan; the Smart Tracks – Two-, Three- and Five-Step and Customized; and the Mind Map. 1. THE W5 PLAN: START WITH WHAT AND WHY, OR START WITH WHO One of the best ways is organize your writing is to use a consistent framework to put your thoughts into a logical order. The W5 method is an excellent, easy-to-use and repeatable model that works well. 1. WHAT – what is the situation. This is a short clear description of the situation, identifying several key points – Yellow scanning and clarifying 2. WHY – the big why or the crux of the issue. This is the core reason for the writing, the one thing that needs attention and action 3. WHO – the person or group you are sending this to 4. WHERE – where is this a problem? Where does it ‘sit’? Describe the location of the issue and the context it is placed in 5. HOW –"
+    ],
+    "ground_truth": "There are many ways to organize a writing plan. Here are three primary ways: the W5 Plan; the Smart Tracks – Two-, Three- and Five-Step and Customized; and the Mind Map. 1. THE W5 PLAN: START WITH WHAT AND WHY, OR START WITH WHO One of the best ways is organize your writing is to use a consistent framework to put your thoughts into a logical order."
+  },
+  {
+    "query": "According to the SmartSkills guide, mind mapping?",
+    "answer": "Based on the document: Using a mind map is an effective way to organize your thinking on a topic. A mind map is most helpful when you have to put different information, thoughts and ideas together in order to communicate clearly. It will help you to organize your writing, and also increase your ability to inform and persuade.",
+    "contexts": [
+      "Using a mind map is an effective way to organize your thinking on a topic. A mind map is most helpful when you have to put different information, thoughts and ideas together in order to communicate clearly. It will help you to organize your writing, and also increase your ability to inform and persuade. A mind map frees you from having to make a linear list and sequence before it is a useful thing to do. A mind map is like a visual picture of the core issue in the centre, with the themes and related points radiating out from the centre. Mind mapping is a highly effective way of getting information in and out of your brain. It helps you to literally map out all of your ideas and link them through the central focus in the middle. Mind mapping combines both creative and structured ways of note taking that maps out your ideas, or the information you are listening to or reviewing. Here is som"
+    ],
+    "ground_truth": "Using a mind map is an effective way to organize your thinking on a topic. A mind map is most helpful when you have to put different information, thoughts and ideas together in order to communicate clearly. It will help you to organize your writing, and also increase your ability to inform and persuade."
+  },
+  {
+    "query": "What does the Apply @ Work section on 'Make Writing Plans' ask you to reflect on or do?",
+    "answer": "Based on the document: Topics to choose from include: • Plan an e-mail to a supervisor on a recommendation for change and improvement • Develop a writing plan to produce a brochure • Develop a writing plan for a 3 minute written presentation to a company on why they should hire you • Develop a writing plan to advise others in how to search for and find employment in another city In this final phase of this lesson, the task is to create 2 writing plans – using the Three-Step or Five-Step Smart Track, the W5 or the Mind Map. The outcome is a set of two plans that meet the writing criteria of: 1.",
+    "contexts": [
+      "Topics to choose from include: • Plan an e-mail to a supervisor on a recommendation for change and improvement • Develop a writing plan to produce a brochure • Develop a writing plan for a 3 minute written presentation to a company on why they should hire you • Develop a writing plan to advise others in how to search for and find employment in another city In this final phase of this lesson, the task is to create 2 writing plans – using the Three-Step or Five-Step Smart Track, the W5 or the Mind Map. The outcome is a set of two plans that meet the writing criteria of: 1. clear purpose – is the intent of the writing clear? 2. clear and simple words – are the words clear, simple, easy to understand. 3. Active not passive voice – is the subject doing the action. 4. Purpose – does the color code of the language match the purpose? 5. Short, single point sentences. 6. Sensible, logical sequenc"
+    ],
+    "ground_truth": "Topics to choose from include: • Plan an e-mail to a supervisor on a recommendation for change and improvement • Develop a writing plan to produce a brochure • Develop a writing plan for a 3 minute written presentation to a company on why they should hire you • Develop a writing plan to advise others in how to search for and find employment in another city In this final phase of this lesson, the task is to create 2 writing plans – using the Three-Step or Five-Step Smart Track, the W5 or the Mind Map. The outcome is a set of two plans that meet the writing criteria of: 1."
+  },
+  {
+    "query": "What does the Experience Exercise section on 'Analyze, Assess' ask you to reflect on or do?",
+    "answer": "Based on the document: and Improve In this exercise you will be given a news story that reports on a current event. Read it over. Then, as a group, make notes on a large piece of paper to answer the following: 1. Specify the writer’s overall intention – what does the writer want to communicate?",
+    "contexts": [
+      "and Improve In this exercise you will be given a news story that reports on a current event. Read it over. Then, as a group, make notes on a large piece of paper to answer the following: 1. Specify the writer’s overall intention – what does the writer want to communicate? Is it Yellow/inform, Red/evaluate or Green/generate? 2. identify the colour of the language that was used – select specific words to identify Yellow, Red or Green language 3. Assess the effectiveness of the writing – identify what works well and what does not 4. recommend improvements to the writing 5. Prepare two requests to the writer for more information Debrief in the full group. Explore the keys to both good effective writing and ineffective writing for job success. NOTES:"
+    ],
+    "ground_truth": "and Improve In this exercise you will be given a news story that reports on a current event. Read it over. Then, as a group, make notes on a large piece of paper to answer the following: 1. Specify the writer’s overall intention – what does the writer want to communicate?"
+  },
+  {
+    "query": "How to Write to Inform,",
+    "answer": "Based on the document: Request a Response or Persuade and Convince The key to good writing is to have a set of effective writing tools. Words are the most important tools you have. To get your message across it is vital to pick the words you use with great care. Be mindful of what you choose to use.",
+    "contexts": [
+      "Request a Response or Persuade and Convince The key to good writing is to have a set of effective writing tools. Words are the most important tools you have. To get your message across it is vital to pick the words you use with great care. Be mindful of what you choose to use. Reduce confusion and misunderstanding by selecting the right words that fit the audience and the task. The Smart Writing and Communicating Guide contains a complete color coding of the different types of words to use when you need to communicate a message to inform, report, list information or persuade others. WRITE TO INFORM When your goal is to inform others and tell them about something, make sure that the words you choose match the need to inform. Here are some key criteria you can use to ensure that your writing is informative: 1. Be clear and descriptive – does you writing clearly describe the situation 2. Sh"
+    ],
+    "ground_truth": "Request a Response or Persuade and Convince The key to good writing is to have a set of effective writing tools. Words are the most important tools you have. To get your message across it is vital to pick the words you use with great care. Be mindful of what you choose to use."
+  },
+  {
+    "query": "According to the SmartSkills guide, take accurate notes and?",
+    "answer": "Based on the document: Record What Was Said One good way to get ahead in the world is to build your skills in listening and note taking/recording information. This is a valuable skill in the workplace, as well as in life. The focus is on shifting into and staying in Yellow thinking and writing – to accurately record and write what was said so that it can communicate the right message to others.",
+    "contexts": [
+      "Record What Was Said One good way to get ahead in the world is to build your skills in listening and note taking/recording information. This is a valuable skill in the workplace, as well as in life. The focus is on shifting into and staying in Yellow thinking and writing – to accurately record and write what was said so that it can communicate the right message to others. The thee skills of analytical thinking for writing to record are: • Scan – take in as much information as possible, without judging any of it • Structure – record the information and organize it into categories • clarify – ask questions to make sure that you are writing down the information or message accurately In order to be a good recorder, it is essential that you shift your focus outside of yourself. Recording is not about you. It is about helping the others involved. Listen carefully to exactly what is being said."
+    ],
+    "ground_truth": "Record What Was Said One good way to get ahead in the world is to build your skills in listening and note taking/recording information. This is a valuable skill in the workplace, as well as in life. The focus is on shifting into and staying in Yellow thinking and writing – to accurately record and write what was said so that it can communicate the right message to others."
+  },
+  {
+    "query": "According to the SmartSkills guide, write to how your?",
+    "answer": "Based on the document: Audience Thinks To produce the desired outcomes, focus tightly on the needs of the person you are writing and communicating to. If you know the person you are writing to, then you can use the Smart Writing and Communicating Guide to select the best words to frame and shape the message to fit the way they like to think.",
+    "contexts": [
+      "Audience Thinks To produce the desired outcomes, focus tightly on the needs of the person you are writing and communicating to. If you know the person you are writing to, then you can use the Smart Writing and Communicating Guide to select the best words to frame and shape the message to fit the way they like to think. If you know the nature of the task or situation, you can also customize your writing and shift how you like to communicate, and also select the words and elements that meet the task requirements. Here are some simple guidelines for selecting the right tone and language to meet the needs of your audience when you write. Use the colour coding to write the outcomes, and prepare the style of writing to appeal to the needs of your audience. s ,/')#!, 4().+%23 Critical thinking/Cool Red outcomes. These are the types of words that make an impact and are effective in communicating"
+    ],
+    "ground_truth": "Audience Thinks To produce the desired outcomes, focus tightly on the needs of the person you are writing and communicating to. If you know the person you are writing to, then you can use the Smart Writing and Communicating Guide to select the best words to frame and shape the message to fit the way they like to think."
+  },
+  {
+    "query": "According to the SmartSkills guide, the background and?",
+    "answer": "Based on the document: Context of the Issue and the Audience Think of the person you are writing to as your ‘target audience’. Use this simple set of guidelines to determine what the realities are for the task, issue or project you are writing about, who the audience is, and how you need to write.",
+    "contexts": [
+      "Context of the Issue and the Audience Think of the person you are writing to as your ‘target audience’. Use this simple set of guidelines to determine what the realities are for the task, issue or project you are writing about, who the audience is, and how you need to write. s ,%6%, /& 4(% 0%23/. – lower, same level, one level above, senior level. The higher above you they are, the sharper and clearer your writing must be, and the more formal approach you need to take. s &/2-!,)49 – low, medium, high. This refers to following procedures. Some organizations or jobs require you to follow strict procedures and protocols in all written communication, while others are less rigid. Make sure that your writing follows the organization’s culture and administrative guidelines. s 3)'.)&)#!.#% /& 4(% 4/0)# - low medium, high. Some issues are more significant to an organization and to the audience th"
+    ],
+    "ground_truth": "Context of the Issue and the Audience Think of the person you are writing to as your ‘target audience’. Use this simple set of guidelines to determine what the realities are for the task, issue or project you are writing about, who the audience is, and how you need to write."
+  },
+  {
+    "query": "What does the Apply @ Work section on 'Write Up a Point Form' ask you to reflect on or do?",
+    "answer": "Based on the document: Summary Imagine that you are preparing yourself for a job interview. Write out a point form summary of the key points that you want to remember to say and use in the interview.",
+    "contexts": [
+      "Summary Imagine that you are preparing yourself for a job interview. Write out a point form summary of the key points that you want to remember to say and use in the interview."
+    ],
+    "ground_truth": "Summary Imagine that you are preparing yourself for a job interview. Write out a point form summary of the key points that you want to remember to say and use in the interview."
+  },
+  {
+    "query": "What does the Apply @ Work section on 'Pitch to the Supervisor' ask you to reflect on or do?",
+    "answer": "Based on the document: 1. PITCH TO RED: You have a supervisor who likes to work in Red. Write a message to the supervisor to request a new piece of equipment. 2. PITCH TO YELLOW: You have a supervisor who likes to work in Yellow. Write a message to the supervisor to request a new piece of equipment.",
+    "contexts": [
+      "1. PITCH TO RED: You have a supervisor who likes to work in Red. Write a message to the supervisor to request a new piece of equipment. 2. PITCH TO YELLOW: You have a supervisor who likes to work in Yellow. Write a message to the supervisor to request a new piece of equipment. 2. PITCH TO GREEN: You have a supervisor who likes to work in Green. Write a message to the supervisor to request a new piece of equipment."
+    ],
+    "ground_truth": "1. PITCH TO RED: You have a supervisor who likes to work in Red. Write a message to the supervisor to request a new piece of equipment. 2. PITCH TO YELLOW: You have a supervisor who likes to work in Yellow. Write a message to the supervisor to request a new piece of equipment."
+  },
+  {
+    "query": "What does the Apply @ Work section on 'Write to Promote the' ask you to reflect on or do?",
+    "answer": "Based on the document: Success @ Work Program Here are a series of writing assignments that will help to improve your writing skills at work. Each of these is designed for a practical application. The first one is to practice writing about this program. s ).&/2- – write a simple message to inform others in your community about the most relevant and timely information regarding this program.",
+    "contexts": [
+      "Success @ Work Program Here are a series of writing assignments that will help to improve your writing skills at work. Each of these is designed for a practical application. The first one is to practice writing about this program. s ).&/2- – write a simple message to inform others in your community about the most relevant and timely information regarding this program. Select the type of information that will be most useful to them s 2%15%34 ).&/2-!4)/. – write a letter to the organizers of the program to request information on how others can join, and what information they need in order to sign up s 0%235!$% – write a message to persuade and convince others of the value and benefits of this program s 2%#/--%.$ – write a recommendation to the instructors of this program on how they can improve the program to better meet your needs and the needs of the other students s 2%#/--%.$ – pick the"
+    ],
+    "ground_truth": "Success @ Work Program Here are a series of writing assignments that will help to improve your writing skills at work. Each of these is designed for a practical application. The first one is to practice writing about this program. s ).&/2- – write a simple message to inform others in your community about the most relevant and timely information regarding this program."
+  },
+  {
+    "query": "What does the Experience Exercise section on 'What Did You Learn at School?' ask you to reflect on or do?",
+    "answer": "Based on the document: For many people, school days don’t always bring back the best memories, especially when you focus on what you had to learn and how you had to learn things. Think back to your days in school. Discuss these questions. • What was the best part of your school experience?",
+    "contexts": [
+      "For many people, school days don’t always bring back the best memories, especially when you focus on what you had to learn and how you had to learn things. Think back to your days in school. Discuss these questions. • What was the best part of your school experience? • What were the most difficult or frustrating parts of school? • How do you like to learn something new? • What doesn’t work for you? • What advice can you give the facilitators about how you want to learn here? NOTES:"
+    ],
+    "ground_truth": "For many people, school days don’t always bring back the best memories, especially when you focus on what you had to learn and how you had to learn things. Think back to your days in school. Discuss these questions. • What was the best part of your school experience?"
+  },
+  {
+    "query": "According to the SmartSkills guide, the seven common mind traps?",
+    "answer": "Based on the document: Continuous learning requires an open mind and the willingness to bounce back and move beyond obstacles. These mind traps are the enemies of learning and of high quality thinking. They undermine the probability of getting good results at work and in everyday lives.",
+    "contexts": [
+      "Continuous learning requires an open mind and the willingness to bounce back and move beyond obstacles. These mind traps are the enemies of learning and of high quality thinking. They undermine the probability of getting good results at work and in everyday lives. They literally trap you into a non-productive cycle and keep you from achieving your goals. MIND TRAP #1. CLOSED MIND This is the fixed mindset where you are unwilling to consider different points of view. This mind trap means the mental door is already closed. No new information or alternatives will be considered. MIND TRAP #2. DIVING IN WITHOUT THINKING In this mind trap, you leap in to solve a problem without having a plan or process. Part way through you realize you failed to consider useful information or other options. MIND TRAP #3. CATASTROPHIZING This is the Chicken Little syndrome – the sky is always falling. Every sit"
+    ],
+    "ground_truth": "Continuous learning requires an open mind and the willingness to bounce back and move beyond obstacles. These mind traps are the enemies of learning and of high quality thinking. They undermine the probability of getting good results at work and in everyday lives."
+  },
+  {
+    "query": "What does the Experience Exercise section on 'Mind Traps and Me' ask you to reflect on or do?",
+    "answer": "Based on the document: THINK, PAIR, SHARE 1. Select the 1 or 2 traps that you get caught in, that cause the most problems. Identify the specific situations each occurs in. 2. Discuss the situations, the mind traps – what you actually think, feel, say and do – and the results you get.",
+    "contexts": [
+      "THINK, PAIR, SHARE 1. Select the 1 or 2 traps that you get caught in, that cause the most problems. Identify the specific situations each occurs in. 2. Discuss the situations, the mind traps – what you actually think, feel, say and do – and the results you get. 3. Share your experiences in the larger group"
+    ],
+    "ground_truth": "THINK, PAIR, SHARE 1. Select the 1 or 2 traps that you get caught in, that cause the most problems. Identify the specific situations each occurs in. 2. Discuss the situations, the mind traps – what you actually think, feel, say and do – and the results you get."
+  },
+  {
+    "query": "According to the SmartSkills guide, better outcomes from smarter thinking?",
+    "answer": "Based on the document: Thinking skills really help us in the AVUCA world. If things are uncertain and keep changing, then how well you can think will help you to figure out what to do. David Perkins is one of the world’s leading researchers on what makes for good thinking skills.",
+    "contexts": [
+      "Thinking skills really help us in the AVUCA world. If things are uncertain and keep changing, then how well you can think will help you to figure out what to do. David Perkins is one of the world’s leading researchers on what makes for good thinking skills. RESULTS OF SMART THINKING Here is David Perkins list of the results that people get who use smart thinking strategies: 1. Superior results 2. Sounder decisions 3. Better solutions 4. deeper insights 5. More reliable conclusions 6. Better innovations and products Ian Mitroff, author of Smart !inking, describes the types of skills the Success @ Work program is designed to deliver for you. “!e ability to spot the right problems, \"ame them correctly and implement appropriate solutions is the true competitive edge that will separate the successful individuals and organizations \"om the also rans.” David Perkins also identified a number of a"
+    ],
+    "ground_truth": "Thinking skills really help us in the AVUCA world. If things are uncertain and keep changing, then how well you can think will help you to figure out what to do. David Perkins is one of the world’s leading researchers on what makes for good thinking skills."
+  },
+  {
+    "query": "What does the Apply @ Work section on 'Thinking @ Work' ask you to reflect on or do?",
+    "answer": "Based on the document: Think of the jobs you have had or applied for. What type of thinking was essential for you to perform well? What % of time were you ever expected to use any of the 7 strategies? When you think of the work you enjoy most, what type of thinking would motivate you the most?",
+    "contexts": [
+      "Think of the jobs you have had or applied for. What type of thinking was essential for you to perform well? What % of time were you ever expected to use any of the 7 strategies? When you think of the work you enjoy most, what type of thinking would motivate you the most?"
+    ],
+    "ground_truth": "Think of the jobs you have had or applied for. What type of thinking was essential for you to perform well? What % of time were you ever expected to use any of the 7 strategies? When you think of the work you enjoy most, what type of thinking would motivate you the most?"
+  },
+  {
+    "query": "What does the Experience Exercise section on 'Know Your' ask you to reflect on or do?",
+    "answer": "Based on the document: Mindset Quiz Think about each of the following statements. List your response to each one using the rating system by checking the box. DIS- SOMEWHAT AGREE INTELLIGENCE AGREE AGREE 1. Your intelligence is something very basic about 1 2 3 4 5 yourself that you can’t change very much.",
+    "contexts": [
+      "Mindset Quiz Think about each of the following statements. List your response to each one using the rating system by checking the box. DIS- SOMEWHAT AGREE INTELLIGENCE AGREE AGREE 1. Your intelligence is something very basic about 1 2 3 4 5 yourself that you can’t change very much. 2. You can learn new things, but you can’t really 1 2 3 4 5 change how intelligent you are. 3. No matter how much intelligence you have, you 1 2 3 4 5 can always increase it a lot. 4. You can always substantially change how 1 2 3 4 5 intelligent you are. TOTALS DIS- SOMEWHAT AGREE PERSONAL QUALITIES AND CHARACTER AGREE AGREE 1. You are a certain kind of person and there is not 1 2 3 4 5 much that can be done to really change that. 2. No matter what kind of person you are, you can 1 2 3 4 5 always change substantially. 3. You can do things differently, but the important 1 2 3 4 5 parts of who you are can’t real"
+    ],
+    "ground_truth": "Mindset Quiz Think about each of the following statements. List your response to each one using the rating system by checking the box. DIS- SOMEWHAT AGREE INTELLIGENCE AGREE AGREE 1. Your intelligence is something very basic about 1 2 3 4 5 yourself that you can’t change very much."
+  },
+  {
+    "query": "According to the SmartSkills guide, the fixed and?",
+    "answer": "Based on the document: Growth Mindsets Carol Dweck is the author of Mindset: !e New Psycholog y of Success: How We Can Learn to Ful\"ll Our Potential. She has worked with thousands of learners. She discovered that people’s deep beliefs about themselves are the key to their success.",
+    "contexts": [
+      "Growth Mindsets Carol Dweck is the author of Mindset: !e New Psycholog y of Success: How We Can Learn to Ful\"ll Our Potential. She has worked with thousands of learners. She discovered that people’s deep beliefs about themselves are the key to their success. As Henry Ford once said: “If you believe you can or you believe you can’t, you are right.” Your mindset is the starting point for success in continuous learning. Your beliefs determine your ability to grow or not, to get smarter or not, to get better or not, to be able to learn what you need or not. Change your mindset and you can change your results. That is good news because it puts you in the driver seat. Here are the two mindsets Carol Dweck discovered. THE TWO MINDSETS FIXED GROWTH Leads to a desire to look smart and, Leads to a desire to learn and, therefore, a tendency to: therefore, a tendency to: • Avoid challenges • embrace"
+    ],
+    "ground_truth": "Growth Mindsets Carol Dweck is the author of Mindset: !e New Psycholog y of Success: How We Can Learn to Ful\"ll Our Potential. She has worked with thousands of learners. She discovered that people’s deep beliefs about themselves are the key to their success."
+  },
+  {
+    "query": "What does the Experience Exercise section on 'The Trade-Off' ask you to reflect on or do?",
+    "answer": "Based on the document: 1. What do you gain and lose from staying in the fixed mindset? What do you lose? 2. What do you gain and lose from the growth mindset? What do you lose? 3. What do you have to do differently to shift to the growth mindset? Practice Skill SKILL-BUILDING PRACTICE: NEW BELIEFS FOR GETTING TO THE GROWTH MINDSET What you would have to do everyday to truly believe and live these two statements: 1.",
+    "contexts": [
+      "1. What do you gain and lose from staying in the fixed mindset? What do you lose? 2. What do you gain and lose from the growth mindset? What do you lose? 3. What do you have to do differently to shift to the growth mindset? Practice Skill SKILL-BUILDING PRACTICE: NEW BELIEFS FOR GETTING TO THE GROWTH MINDSET What you would have to do everyday to truly believe and live these two statements: 1. I can change how smart I am if I work on it everyday. 2. I can change basic things about the kind of person I am if I want to."
+    ],
+    "ground_truth": "1. What do you gain and lose from staying in the fixed mindset? What do you lose? 2. What do you gain and lose from the growth mindset? What do you lose? 3. What do you have to do differently to shift to the growth mindset? Practice Skill SKILL-BUILDING PRACTICE: NEW BELIEFS FOR GETTING TO THE GROWTH MINDSET What you would have to do everyday to truly believe and live these two statements: 1."
+  },
+  {
+    "query": "According to the SmartSkills guide, the new news about?",
+    "answer": "Based on the document: Intelligence In the old days, we all thought that people who got high results on tests were more intelligent. We now know that was wrong. People who got high marks on tests knew how to get high marks on tests. This does not necessarily make them more intelligent.",
+    "contexts": [
+      "Intelligence In the old days, we all thought that people who got high results on tests were more intelligent. We now know that was wrong. People who got high marks on tests knew how to get high marks on tests. This does not necessarily make them more intelligent. “With practice, training and above all, method, we manage to increase our attention, our memory, our judgment, and literally to become more intelligent than we were before.” – Alfred Binet, developer of the original IQ test Your personal intelligence is your own set of skills and strategies that you use to figure things out. These smart skills help you think better, solve problems, communicate, collaborate and work smarter with others. THE EVOLUTION OF INTELLIGENCE 1. WHO IS SMART AND WHO IS NOT 1865 – Galton: Superior biology of the upper class 1904 – Spearman: ‘G’ intelligence. You have it or you don’t 2. THE BRAIN AND INTELLI"
+    ],
+    "ground_truth": "Intelligence In the old days, we all thought that people who got high results on tests were more intelligent. We now know that was wrong. People who got high marks on tests knew how to get high marks on tests. This does not necessarily make them more intelligent."
+  },
+  {
+    "query": "What does the Apply @ Work section on 'Smarter Day' ask you to reflect on or do?",
+    "answer": "Based on the document: 1) How would you apply these practices in seeking a job or succeeding at work? 2) What 3 steps should you take? 3) What obstacles would you face? 4) How would you deal with and overcome these obstacles?",
+    "contexts": [
+      "1) How would you apply these practices in seeking a job or succeeding at work? 2) What 3 steps should you take? 3) What obstacles would you face? 4) How would you deal with and overcome these obstacles?"
+    ],
+    "ground_truth": "1) How would you apply these practices in seeking a job or succeeding at work? 2) What 3 steps should you take? 3) What obstacles would you face? 4) How would you deal with and overcome these obstacles?"
+  },
+  {
+    "query": "According to the SmartSkills guide, learning practices of?",
+    "answer": "Based on the document: Great Performers Great performers are normal people who do extra ordinary things. They have developed 3 key practices as part of their lifelong learning. 1. KNOW SELF Great performers spend time understanding and knowing themselves well. “Exceptional individuals have a special talent for identifying their own strengths and weaknesses.” – Howard Gardner, Extraordinary Minds 2.",
+    "contexts": [
+      "Great Performers Great performers are normal people who do extra ordinary things. They have developed 3 key practices as part of their lifelong learning. 1. KNOW SELF Great performers spend time understanding and knowing themselves well. “Exceptional individuals have a special talent for identifying their own strengths and weaknesses.” – Howard Gardner, Extraordinary Minds 2. USE ADVERSITY CONSTRUCTIVELY Great performers know how to reframe adversity and setbacks into hard won learning. They choose a growth mindset to keep moving forward, instead of packing it in. They have the special ability to convert life’s setbacks as part of their path to achieve future success. 3. WORK HARDER THAN OTHER PEOPLE In a survey of 143 researchers, the number one ingredient in creativity was perseverance, not special talent or genius. Great performers work harder, they work smarter and they work longer t"
+    ],
+    "ground_truth": "Great Performers Great performers are normal people who do extra ordinary things. They have developed 3 key practices as part of their lifelong learning. 1. KNOW SELF Great performers spend time understanding and knowing themselves well. “Exceptional individuals have a special talent for identifying their own strengths and weaknesses.” – Howard Gardner, Extraordinary Minds 2."
+  },
+  {
+    "query": "According to the SmartSkills guide, the 3 me’s?",
+    "answer": "Based on the document: Intelligence is having to figure things out when you aren’t sure what to do next. It is really a series of moment to moment decisions that add up over time. In the moment, in any moment, you always have 3 choices for what to do. These are the 3 Me’s: 1 AUTOMATIC ME – this me is the same old me, doing what I always do, in the same ways.",
+    "contexts": [
+      "Intelligence is having to figure things out when you aren’t sure what to do next. It is really a series of moment to moment decisions that add up over time. In the moment, in any moment, you always have 3 choices for what to do. These are the 3 Me’s: 1 AUTOMATIC ME – this me is the same old me, doing what I always do, in the same ways. No real thinking is involved. I just do what I do. It is mindless and automatic – like tying shoes, driving a car, ordering the same food from the same place and reacting to a friend or work mate in the same way without thinking. This type of thinking is good when you have repeatable routines in place to get simple things done. Automatic me is not a good choice when things change, become more complex, uncertain and require some thinking. 2. SET BACK ME – this me is when I make dumb choices, bad decisions that take me off track and away from my goals. Setba"
+    ],
+    "ground_truth": "Intelligence is having to figure things out when you aren’t sure what to do next. It is really a series of moment to moment decisions that add up over time. In the moment, in any moment, you always have 3 choices for what to do. These are the 3 Me’s: 1 AUTOMATIC ME – this me is the same old me, doing what I always do, in the same ways."
+  },
+  {
+    "query": "What does the Apply @ Work section on 'Refl on 3 Me’s' ask you to reflect on or do?",
+    "answer": "Based on the document: Think back over the past week. What are some specific examples of your 3 Me’s in action and what were the consequences of each one. 3 ME’S EXAMPLES CONSEQUENCES SMARTER ME AUTOMATIC ME SETBACK ME What do you notice in these examples? At work, in what types of situations or tasks would you need to use your Smarter Me?",
+    "contexts": [
+      "Think back over the past week. What are some specific examples of your 3 Me’s in action and what were the consequences of each one. 3 ME’S EXAMPLES CONSEQUENCES SMARTER ME AUTOMATIC ME SETBACK ME What do you notice in these examples? At work, in what types of situations or tasks would you need to use your Smarter Me?"
+    ],
+    "ground_truth": "Think back over the past week. What are some specific examples of your 3 Me’s in action and what were the consequences of each one. 3 ME’S EXAMPLES CONSEQUENCES SMARTER ME AUTOMATIC ME SETBACK ME What do you notice in these examples? At work, in what types of situations or tasks would you need to use your Smarter Me?"
+  },
+  {
+    "query": "What does the Apply @ Work section on 'Best Ways of Working' ask you to reflect on or do?",
+    "answer": "Based on the document: Imagine you have the opportunity to meet with a job counsellor or an employer to talk about your future plans. Reflect on the specific ways and ‘how-tos’ that you can use to organize yourself everyday and get quality work done. Make a list of your own ‘secret sauce’ for success, when you use your Smarter Me.",
+    "contexts": [
+      "Imagine you have the opportunity to meet with a job counsellor or an employer to talk about your future plans. Reflect on the specific ways and ‘how-tos’ that you can use to organize yourself everyday and get quality work done. Make a list of your own ‘secret sauce’ for success, when you use your Smarter Me. 1. 2. 3. 4. 5."
+    ],
+    "ground_truth": "Imagine you have the opportunity to meet with a job counsellor or an employer to talk about your future plans. Reflect on the specific ways and ‘how-tos’ that you can use to organize yourself everyday and get quality work done. Make a list of your own ‘secret sauce’ for success, when you use your Smarter Me."
+  },
+  {
+    "question": "Who is the author of the 5 Essential Smart Skills program, and what organization is it associated with?",
+    "ground_truth": "The program is written by Bob Wiele, founder of OneSmartWorld.",
+    "source_page": 77
+  },
+  {
+    "question": "What are the 5 Smart Skills in the program?",
+    "ground_truth": "1. Thinking and Problem Solving, 2. Igniting Personal Spirit, 3. Speaking, Presenting and Communicating, 4. Writing to Record, Report and Persuade, 5. Working Collaboratively with Others.",
+    "source_page": 77
+  },
+  {
+    "question": "What is a 'thinking style' according to the book, and whose research does it draw on?",
+    "ground_truth": "A thinking style is not a skill or ability, but the way you prefer to use the abilities you already have — it's about where you put your focus and attention. The book draws on the research of Robert Sternberg, noting that thinking styles are preferences, not abilities.",
+    "source_page": 12
+  },
+  {
+    "question": "What are the three typical problem-solving mistakes described in the book?",
+    "ground_truth": "1. Lack of a process, 2. Overconfidence in our own judgement, 3. Mistaking talking for progress.",
+    "source_page": 47
+  },
+  {
+    "question": "What is the recommended fix for the 'Lack of a Process' problem-solving mistake?",
+    "ground_truth": "Pick a process for every important problem you face — select a Smart Track process to think through what you have to do, and use it as your path and GPS to get where you want to go.",
+    "source_page": 47
+  },
+  {
+    "question": "What is the tip for avoiding 'Overconfidence in our own judgement'?",
+    "ground_truth": "Slow down, see every problem as fresh and unique instead of lumping it in with past problems, get into a Yellow mindset to learn as much as possible before taking further steps, tune in, listen, scan the situation, and ask lots of clarifying questions.",
+    "source_page": 47
+  },
+  {
+    "question": "What are the three steps in 'Smart Track #4: Ideas to Decisions'?",
+    "ground_truth": "Step 1: Generate ideas (What could we do?). Step 2: Organize ideas into clusters (How can we organize these ideas?). Step 3: Make a decision (What should we do?).",
+    "source_page": 62
+  },
+  {
+    "question": "What does the book say about the growth mindset, and whose quote supports it?",
+    "ground_truth": "In a growth mindset, you recognize that everything is learning and any new skill takes time to develop — instant success is a delusion and a distraction; the real work is putting in effort to get better. The book quotes Carol Dweck: 'With practice, training and above all, method, we manage to increase our attention, our memory, our judgment and literally to become more intelligent than we were before.'",
+    "source_page": 336
+  },
+  {
+    "question": "What is the 5:1 ratio mentioned in the 'Working Collaboratively with Others' section?",
+    "ground_truth": "The 5:1 ratio refers to using 5 positives for every 1 negative in conversations at work.",
+    "source_page": 169
+  },
+  {
+    "question": "What book and authors does the conflict-resolution section reference for negotiation?",
+    "ground_truth": "It references 'Getting to Yes' by Roger Fisher, William Ury, and Bruce Patton, Harvard University experts in conflict and negotiation.",
+    "source_page": 230
+  },
+  {
+    "question": "What are the five key points from the 'Getting to Yes' negotiation experts, according to the book?",
+    "ground_truth": "1. Separate the person/people from the problem. 2. Focus on the interests of each person/group, not positions. 3. Invent options for mutual gain vs. win-lose options. 4. Invest in setting and using objective criteria vs. personalized ones. 5. Know your BATNA (Best Alternative Negotiated Agreement) and be ready to reframe back-up positions.",
+    "source_page": 230
+  },
+  {
+    "question": "What do WIN-WIN, WIN-LOSE, and LOSE-LOSE mean in the context of conflict, per the book?",
+    "ground_truth": "WIN-WIN is when both sides give and take and achieve benefits. WIN-LOSE is when one side wins at the expense of the other side. LOSE-LOSE is when the way the conflict is handled ends with both sides losing.",
+    "source_page": 230
+  },
+  {
+    "question": "Which mindset colour is described as being at the heart of conflict?",
+    "ground_truth": "Red is described as the mindset colour at the heart of conflict — where decisions about what's right, fair, or wanted are made, and where conflict is ultimately resolved.",
+    "source_page": 231
+  },
+  {
+    "question": "What is Lesson 3 in the 'Speaking, Presenting and Communicating' section about?",
+    "ground_truth": "Lesson 3, 'How to Ask and Use Smart Questions,' describes questions as precision power tools for the mind that help open, measure, map, make, close, fix, and connect things, and shape how other people respond to you.",
+    "source_page": 123
+  },
+  {
+    "question": "What is the focus of Lesson 1 in 'Writing to Record, Report and Persuade'?",
+    "ground_truth": "Lesson 1, 'Writing as an Essential Skill,' explains that writing is an essential 21st-century workplace skill, needed for simple texts, short reports, briefing notes, incident reports, emails, and descriptive notes on what was said or what happened.",
+    "source_page": 260
+  },
+  {
+    "question": "What is 'Get Into The Flow' as one of the 18 Success Strategies?",
+    "ground_truth": "Being fully immersed in creative thinking, tolerating ambiguity and conflicting information and feelings, staying patient, refraining from decision-making, and anticipating the arrival of a better idea. It is one of two strategies for achieving creative insights from intuition, combining tolerance for ambiguity with a flow state of mind.",
+    "source_page": 486
+  },
+  {
+    "question": "What is 'Trust Your Heart' as one of the 18 Success Strategies?",
+    "ground_truth": "Listening to your heart and feelings as a guide for making decisions about what to do. It is the second of two emotion-based decision-making strategies, focusing attention on what your inner voice/intuition is telling you.",
+    "source_page": 501
+  },
+  {
+    "question": "What does 'Understanding' mean within the Four Dimensions of High Performance?",
+    "ground_truth": "Understanding is deeper than knowledge — it goes beyond describing reality and encompasses both cognitive and emotional ways of knowing. It gives a solid grasp of the facts, forces, and feelings at play in everyday life, achieved by staying open and aware and gathering information using all your senses while refraining completely from judging.",
+    "source_page": 471
+  },
+  {
+    "question": "According to 'Smart For Life,' what do smart people know how to do?",
+    "ground_truth": "Smart people know how to collect their thoughts under pressure, find and organize the information they need, pinpoint the real crux of any problem, turn problems into opportunities, generate many creative options and alternatives, resist the impulse to act on their first thought, ask questions that stimulate openness and inquiry, and maintain a cool head under pressure.",
+    "source_page": 456
+  },
+  {
+    "question": "What is the CEO's total revenue for Q3 2025 mentioned in this document?",
+    "ground_truth": "This document does not contain any financial or revenue data — it is a self-help/skills-training book about thinking, communication, and collaboration, not a financial report. The correct answer is that this information is not present in the document.",
+    "source_page": null
+  }
+]

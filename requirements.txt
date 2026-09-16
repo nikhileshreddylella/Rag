@@ -1,0 +1,37 @@
+# --- Web API & Server ---
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+python-multipart>=0.0.9
+pydantic>=2.8.0
+python-dotenv>=1.0.1
+
+# --- Vector Database & Embeddings ---
+chromadb>=0.5.0
+sentence-transformers>=3.0.0
+transformers>=4.40.0
+torch>=2.2.0
+
+# --- LLM Providers ---
+groq>=0.9.0
+google-genai>=0.1.0
+openai>=1.40.0
+
+# --- Observability & Deep Evaluation ---
+langsmith>=0.1.90
+deepeval>=1.0.0
+
+# --- Document Parsing & Multimodal OCR ---
+pymupdf>=1.24.0
+python-docx>=1.1.0
+pytesseract>=0.3.10
+pillow>=10.0.0
+
+# --- Database & Storage ---
+psycopg2-binary>=2.9.9
+
+# --- Core Utilities & Numerical Computation ---
+numpy>=1.26.0
+scipy>=1.12.0
+scikit-learn>=1.4.0
+requests>=2.31.0
+tqdm>=4.66.0
